@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xyz.cct.lsu.edu/post/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://xyz.cct.lsu.edu/tags/hugo/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/tags/katex/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/katex-math-typesetting/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/tags/math/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/tags/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/tags/typesetting/</loc>
-    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/cupper-typography/</loc>
-    <lastmod>2019-02-14T15:36:09-06:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/tags/markdown/</loc>
-    <lastmod>2019-02-14T15:36:09-06:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/cupper-shortcodes/</loc>
-    <lastmod>2019-02-12T23:39:06-06:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/tags/shortcodes/</loc>
-    <lastmod>2019-02-12T23:39:06-06:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/</loc>
-    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
+  </url><url>
+    <loc>https://xyz.cct.lsu.edu/post/</loc>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url>
 </urlset>
