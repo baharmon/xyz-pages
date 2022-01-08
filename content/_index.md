@@ -10,30 +10,33 @@ Welcome to **XYZ Project**, a collection of point clouds from laser scanning and
 {{< expandable label="Rosedown" level="2" >}}
 Rosedown Plantation, St. Francisville, Louisiana
 
-![Rockery](rockery-6.jpg)
+{{< potree rosedown landscape >}}
+[Fullscreen Viewer](https://xyz.cct.lsu.edu/data/rosedown/landscape.html "Point Cloud Viewer for Rosedown Landscape")
+
+{{< potree rosedown house >}}
+[Fullscreen Viewer](https://xyz.cct.lsu.edu/data/rosedown/house.html "Point Cloud Viewer for Rosedown House")
+
+{{< potree rosedown interior >}}
+[Fullscreen Viewer](https://xyz.cct.lsu.edu/data/rosedown/interior.html "Point Cloud Viewer for Rosedown Interior")
+
+{{< potree rosedown rockery >}}
+[Fullscreen Viewer](https://xyz.cct.lsu.edu/data/rosedown/rockery.html "Point Cloud Viewer for Rosedown Rockery")
+
 {{< /expandable >}}
-
-
 
 {{< expandable label="Hilltop" level="2" >}}
 Hilltop Arboretum, Baton Rouge, Louisiana
 
-![Landscape](landscape-3.jpg)
+{{< potree hilltop arboretum >}}
+[Fullscreen Viewer](https://xyz.cct.lsu.edu/data/hilltop/arboretum.html "Point Cloud Viewer for Hilltop Arboretum")
+
+{{< potree hilltop meadow >}}
+[Fullscreen Viewer](https://xyz.cct.lsu.edu/data/hilltop/meadow.html "Point Cloud Viewer for Hilltop Arboretum Meadow")
+
 {{< /expandable >}}
 
-{{< potree rosedown rockery >}}
 
-<!-- [Rockery Potree Viewer](https://xyz.cct.lsu.edu/data/rosedown/rockery.html)
 
-<iframe src="https://xyz.cct.lsu.edu/data/rosedown/rockery.html" style="width: 100%; height: 100%"></iframe>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://xyz.cct.lsu.edu/data/rosedown/rockery.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Potree Viewer" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div> -->
-
-<!-- <div style="position: absolute; left: 20%; right: 20%; top: 20%; bottom: 20%">
-  <iframe src="https://xyz.cct.lsu.edu/data/rosedown/rockery.html" style="width: 100%; height: 100%"></iframe>
-</div> -->
 
 <!-- ADD LEAFLET MAP -->
 
