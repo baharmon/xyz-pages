@@ -21,9 +21,19 @@ Hilltop Arboretum, Baton Rouge, Louisiana
 ![Landscape](landscape-3.jpg)
 {{< /expandable >}}
 
-[Rockery Potree Viwer](https://xyz.cct.lsu.edu/data/rosedown/rockery.html)
+{{< potree rosedown rockery >}}
+
+<!-- [Rockery Potree Viewer](https://xyz.cct.lsu.edu/data/rosedown/rockery.html)
 
 <iframe src="https://xyz.cct.lsu.edu/data/rosedown/rockery.html" style="width: 100%; height: 100%"></iframe>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://xyz.cct.lsu.edu/data/rosedown/rockery.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Potree Viewer" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div> -->
+
+<!-- <div style="position: absolute; left: 20%; right: 20%; top: 20%; bottom: 20%">
+  <iframe src="https://xyz.cct.lsu.edu/data/rosedown/rockery.html" style="width: 100%; height: 100%"></iframe>
+</div> -->
 
 <!-- ADD LEAFLET MAP -->
 
