@@ -1,6 +1,7 @@
+
 // create map
-var mymap = L.map('project-map').setView([30.411804, -91.180910], 8);
-L.tileLayer.provider('Stamen.Toner').addTo(mymap);
+var mymap = L.map('map').setView([30.411804, -91.180910], 7);
+L.tileLayer.provider('Stamen.Toner').addTo(mymap); //Stamen.TonerLite
 
 // create custom markers
 var markerIcon = new L.Icon({
@@ -14,23 +15,19 @@ var markerIcon = new L.Icon({
 
 // load GeoJSON from an external file
 $.getJSON("locations.json",function(data){
+
   // add popups
   function onEachFeature(feature, layer) {
-      layer.bindPopup("<b> Project: </b>" + feature.properties.name + "<br>" + "<b>Location: </b>" + feature.properties.location);
-      sidebar.setContent("<b> Project: </b>" + feature.properties.name + "<br>" + "<b>Location: </b>" + feature.properties.location);
+      layer.bindPopup("<b> Name: </b>" + feature.properties.name + "<br>" + "<b>Location: </b>" + feature.properties.location);
   }
+
   // add GeoJSON layer to the map once the file is loaded
-  L.geoJSON(data, {
+  geojson = L.geoJSON(data, {
     pointToLayer: function (feature, latlng) {
 			return L.marker(latlng, {icon: markerIcon});
 		},
     onEachFeature: onEachFeature
-  }).addTo(mymap).on('click', function () {
-              sidebar.toggle();
-          });
+  }).addTo(mymap)
+  // mymap.fitBounds(geojson.getBounds(), {padding: L.point(20, 20)});
+  // mymap.invalidateSize();
 });
-// sidebar
-var sidebar = L.control.sidebar('sidebar', {
-    position: 'left'
-});
-mymap.addControl(sidebar);
