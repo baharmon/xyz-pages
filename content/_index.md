@@ -35,6 +35,8 @@ Hilltop Arboretum, Baton Rouge, Louisiana
 
 {{< /expandable >}}
 
+{{< map >}}
+
 <!-- ADD LEAFLET MAP -->
 
 <!--

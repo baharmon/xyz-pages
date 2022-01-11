@@ -24,6 +24,7 @@ params:
   dateFormat: Jan 2, 2006
   codePenUser: baharmon
   katex: true
+  leaflet: true
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: true
@@ -39,9 +40,10 @@ params:
     - css/brands.css
     - css/regular.css
     - css/solid.css
+    - css/L.Control.Sidebar.css
   customJs:
-    - js/custom_01.js
-    - js/custom_02.js
+    - js/L.Control.Sidebar.js
+    - js/leaflet-providers.js
 
 menu:
   nav:

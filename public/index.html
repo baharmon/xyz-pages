@@ -54,6 +54,22 @@
   <link rel="stylesheet" type="text/css" href="/css/styles.css">
 
   
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+crossorigin=""/>
+<link rel="stylesheet" href="css/L.Control.Sidebar.css">
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+crossorigin=""></script>
+<script type="text/javascript" src="https://stamen-maps.a.ssl.fastly.net/js/tile.stamen.js"></script>
+<script src="js/leaflet-providers.js"></script>
+<script src="js/L.Control.Sidebar.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"
+integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+
+
+  
     <link rel="stylesheet" type="text/css" href="/css/academicons.css">
   
     <link rel="stylesheet" type="text/css" href="/css/mapskin.css">
@@ -67,6 +83,8 @@
     <link rel="stylesheet" type="text/css" href="/css/regular.css">
   
     <link rel="stylesheet" type="text/css" href="/css/solid.css">
+  
+    <link rel="stylesheet" type="text/css" href="/css/L.Control.Sidebar.css">
   
 
   
@@ -294,7 +312,7 @@
     
     
     
-    <button aria-expanded="false" data-expands="js-expandable-7fd666332fa94c46f7de779078ab4193">
+    <button aria-expanded="false" data-expands="js-expandable-cae71863fb0479373dd4ff46667a9279">
       <span class="expandable-label">Rosedown</span>
       <svg aria-hidden="true" focusable="false" viewBox="0 0 70.866142 70.866141">
         <g transform="translate(0 -981.5)">
@@ -306,7 +324,7 @@
   
     </h2>
   
-  <div id="js-expandable-7fd666332fa94c46f7de779078ab4193" hidden>
+  <div id="js-expandable-cae71863fb0479373dd4ff46667a9279" hidden>
     <p>Rosedown Plantation, St. Francisville, Louisiana</p>
 <p><a href="https://xyz.cct.lsu.edu/data/rosedown/landscape.html" title="Point Cloud Viewer for Rosedown Landscape"><strong>Landscape</strong></a></p>
 <div class="embed potree viewer" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -337,7 +355,7 @@
     
     
     
-    <button aria-expanded="false" data-expands="js-expandable-924482c52b08c37280383c82c8649519">
+    <button aria-expanded="false" data-expands="js-expandable-16590484348829388bc2c2c05c722839">
       <span class="expandable-label">Hilltop</span>
       <svg aria-hidden="true" focusable="false" viewBox="0 0 70.866142 70.866141">
         <g transform="translate(0 -981.5)">
@@ -349,7 +367,7 @@
   
     </h2>
   
-  <div id="js-expandable-924482c52b08c37280383c82c8649519" hidden>
+  <div id="js-expandable-16590484348829388bc2c2c05c722839" hidden>
     <p>Hilltop Arboretum, Baton Rouge, Louisiana</p>
 <p><a href="https://xyz.cct.lsu.edu/data/hilltop/arboretum.html" title="Point Cloud Viewer for Hilltop Arboretum"><strong>Arboretum</strong></a></p>
 <div class="embed potree viewer" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -362,6 +380,12 @@
 
   </div>
 </div>
+
+<div id="project-map" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"></div>
+<div id="sidebar"></div>
+<script src="js/map.js"></script>
+
+
 
 <!-- ADD LEAFLET MAP -->
 <!--
@@ -411,9 +435,9 @@
 
 
 
-  <script src="/js/custom_01.js"></script>
+  <script src="/js/L.Control.Sidebar.js"></script>
 
-  <script src="/js/custom_02.js"></script>
+  <script src="/js/leaflet-providers.js"></script>
 
 
     

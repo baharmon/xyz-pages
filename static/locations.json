@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{
+    "type": "Feature",
+    "properties": {
+        "name": "Rosedown",
+        "location": "Rosedown Plantation, St. Francisville, LA, USA"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-91.3709458, 30.7960156]
+    }
+}, {
+    "type": "Feature",
+    "properties": {
+        "name": "Hilltop",
+        "location": "LSU Hilltop Arboretum, Baton Rouge, LA, USA"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-91.094991, 30.356135]
+    }
+}
+]
+}
