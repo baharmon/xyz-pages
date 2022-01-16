@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xyz.cct.lsu.edu/about/</loc>
+    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
+  </url><url>
     <loc>https://xyz.cct.lsu.edu/tags/hugo/</loc>
     <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
@@ -34,9 +37,6 @@
   </url><url>
     <loc>https://xyz.cct.lsu.edu/</loc>
     <lastmod>2022-01-10T18:17:33-06:00</lastmod>
-  </url><url>
-    <loc>https://xyz.cct.lsu.edu/about/</loc>
-    <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/post/</loc>
     <lastmod>2022-01-06T19:02:24-06:00</lastmod>

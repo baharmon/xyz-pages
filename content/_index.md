@@ -5,7 +5,10 @@ title: "Point Clouds"
 
 ![Landscape](landscape-3.jpg)
 
-Welcome to **XYZ Project**, a collection of point clouds from laser scanning and photogrammetry.
+Welcome to **XYZ Project**,
+a collection of point clouds from laser scanning and photogrammetry
+by Louisiana State University's
+[College of Art and Design](https://design.lsu.edu/).
 
 {{< expandable label="Rosedown" level="2" >}}
 Rosedown Plantation, St. Francisville, Louisiana
@@ -35,9 +38,15 @@ Hilltop Arboretum, Baton Rouge, Louisiana
 
 {{< /expandable >}}
 
-{{< map >}}
+{{< expandable label="Avery Island" level="2" >}}
+Jungle Gardens, Avery Island, Louisiana
 
-<!-- ADD LEAFLET MAP -->
+[**Buddha**](https://xyz.cct.lsu.edu/data/averyisland/buddha.html "Point Cloud Viewer for Avery Island Buddha")
+{{< potree averyisland buddha >}}
+
+{{< /expandable >}}
+
+<!-- {{< map >}} -->
 
 <!--
 {{<i class="ai ai-zenodo ai-3x">}}

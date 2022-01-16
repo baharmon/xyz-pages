@@ -1,16 +1,18 @@
 ---
-date: "2014-04-09"
+date: "2021-01-16"
 title: "About"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
-
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+This is a collection of point clouds
+from photogrammetry and laser scanning
+recording the cultural heritage of landscapes.
+The team from Louisiana State University's
+[College of Art and Design](https://design.lsu.edu/)
+includes
+[Prof. Brendan Harmon](https://baharmon.github.io/),
+[Prof. Nicholas Serrano](https://design.lsu.edu/faculty/serrano-nicholas/), and
+[Prof. William Ma](https://design.lsu.edu/faculty/william-ma/). 
+This research was supported by the
+[LSU Center for GeoInformatics](http://c4g.lsu.edu/)
+and funded by the
+[National Park Service's Historic Preservation Fund](https://www.nps.gov/subjects/historicpreservationfund/index.htm).

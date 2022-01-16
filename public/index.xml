@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://xyz.cct.lsu.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://xyz.cct.lsu.edu/about/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/about/</guid>
+      <description>This is a collection of point clouds from photogrammetry and laser scanning recording the cultural heritage of landscapes. The team from Louisiana State University&amp;rsquo;s College of Art and Design includes Prof. Brendan Harmon, Prof. Nicholas Serrano, and Prof. William Ma. This research was supported by the LSU Center for GeoInformatics and funded by the National Park Service&amp;rsquo;s Historic Preservation Fund.</description>
+    </item>
+    
+    <item>
       <title>Katex Math Typesetting</title>
       <link>https://xyz.cct.lsu.edu/katex-math-typesetting/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
@@ -40,17 +49,6 @@ This will also be bold</description>
       
       <guid>https://xyz.cct.lsu.edu/cupper-shortcodes/</guid>
       <description>blockquote {{&amp;lt; blockquote author=&amp;quot;Carl Jung&amp;quot; &amp;gt;}} Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity. {{&amp;lt; /blockquote &amp;gt;}}   Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://xyz.cct.lsu.edu/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://xyz.cct.lsu.edu/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
     </item>
     
   </channel>
