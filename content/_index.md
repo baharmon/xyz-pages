@@ -34,15 +34,23 @@ and funded by the
 [National Park Service's Historic Preservation Fund](https://www.nps.gov/subjects/historicpreservationfund/index.htm).
 <!-- Add download links -->
 
-Point Clouds Viewers:
-* {{<i class="fas fa-braille">}} [**Landscape**](https://xyz.cct.lsu.edu/data/rosedown/landscape.html "Point Cloud Viewer for Rosedown Landscape")
-* {{<i class="fas fa-braille">}} [**Interior**](https://xyz.cct.lsu.edu/data/rosedown/interior.html "Point Cloud Viewer for Rosedown Interior")
-* {{<i class="fas fa-braille">}} [**House**](https://xyz.cct.lsu.edu/data/rosedown/house.html "Point Cloud Viewer for Rosedown House")
-* {{<i class="fas fa-braille">}} [**Rockery**](https://xyz.cct.lsu.edu/data/rosedown/rockery.html "Point Cloud Viewer for Rosedown Rockery")
-* {{<i class="fas fa-braille">}} [**Dining Room**](https://xyz.cct.lsu.edu/data/rosedown/dining-room.html "Point Cloud Viewer for Rosedown Dining Room")
-* {{<i class="fas fa-braille">}} [**Allée**](https://xyz.cct.lsu.edu/data/rosedown/allee.html "Point Cloud Viewer for Rosedown Allée")
-* {{<i class="fas fa-braille">}} [**Formal Garden**](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.html "Point Cloud Viewer for Rosedown Formal Garden")
-* {{<i class="fas fa-braille">}} [**Martha's Screen**](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.html "Point Cloud Viewer for Martha's Screen")
+**Point Clouds Viewers**
+
+{{<i class="fas fa-braille">}} [Landscape](https://xyz.cct.lsu.edu/data/rosedown/landscape.html "Point Cloud Viewer for Rosedown Landscape")
+
+{{<i class="fas fa-braille">}} [Interior](https://xyz.cct.lsu.edu/data/rosedown/interior.html "Point Cloud Viewer for Rosedown Interior")
+
+{{<i class="fas fa-braille">}} [House](https://xyz.cct.lsu.edu/data/rosedown/house.html "Point Cloud Viewer for Rosedown House")
+
+{{<i class="fas fa-braille">}} [Rockery](https://xyz.cct.lsu.edu/data/rosedown/rockery.html "Point Cloud Viewer for Rosedown Rockery")
+
+{{<i class="fas fa-braille">}} [Dining Room](https://xyz.cct.lsu.edu/data/rosedown/dining-room.html "Point Cloud Viewer for Rosedown Dining Room")
+
+{{<i class="fas fa-braille">}} [Allée](https://xyz.cct.lsu.edu/data/rosedown/allee.html "Point Cloud Viewer for Rosedown Allée")
+
+{{<i class="fas fa-braille">}} [Formal Garden](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.html "Point Cloud Viewer for Rosedown Formal Garden")
+
+{{<i class="fas fa-braille">}} [Martha's Screen](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.html "Point Cloud Viewer for Martha's Screen")
 
 <!-- Add milk house and complete Rosedown point clouds-->
 
@@ -73,10 +81,13 @@ with a MicaSense RedEdge-M sensor
 and 9 permanent ground control points.
 This project was supported by the
 [LSU Center for GeoInformatics](http://c4g.lsu.edu/).
+The datasets are licensed [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-Point Clouds Time Series Viewers:
-* {{<i class="fas fa-braille">}} [**Arboretum**](https://xyz.cct.lsu.edu/data/hilltop/arboretum.html "Point Cloud Viewer for Hilltop Arboretum")
-* {{<i class="fas fa-braille">}} [**Meadow**](https://xyz.cct.lsu.edu/data/hilltop/meadow.html "Point Cloud Viewer for Hilltop Arboretum Meadow")
+**Point Clouds Time Series Viewers**
+
+{{<i class="fas fa-braille">}} [Arboretum](https://xyz.cct.lsu.edu/data/hilltop/arboretum.html "Point Cloud Viewer for Hilltop Arboretum")
+
+{{<i class="fas fa-braille">}} [Meadow](https://xyz.cct.lsu.edu/data/hilltop/meadow.html "Point Cloud Viewer for Hilltop Arboretum Meadow")
 
 Explore the time series of point clouds
 with [Potree](http://potree.org/)
@@ -86,20 +97,33 @@ turning on or off point cloud layers.
 
 {{< /expandable >}}
 
-<!-- {{< expandable label="Avery Island" level="2" >}}
-Jungle Gardens, Avery Island, Louisiana
+{{< expandable label="Avery Island" level="2" >}}
 
-[**Buddha**](https://xyz.cct.lsu.edu/data/averyisland/buddha.html "Point Cloud Viewer for Avery Island Buddha")
 {{< potree averyisland buddha >}}
 
-{{< /expandable >}} -->
+**Jungle Gardens, Avery Island, Louisiana**
+
+A laser scan of the Buddha
+in the Jungle Gardens on Avery Island in Louisiana
+by [Brendan Harmon](https://baharmon.github.io/) and
+[William Ma](https://design.lsu.edu/faculty/william-ma/).
+The point cloud is licensed [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/).
+
+**Point Cloud Viewer & Dataset**
+
+[{{<i class="fas fa-braille">}} Buddha](https://xyz.cct.lsu.edu/data/averyisland/buddha.html "Point Cloud Viewer for Avery Island Buddha") + [{{<i class="ms ms-database">}} buddha.laz](https://xyz.cct.lsu.edu/data/averyisland/buddha.laz "LAZ Point Cloud of Avery Island Buddha")
+
+{{< /expandable >}}
 
 <!-- {{< map >}} -->
 
 <!--
 {{<i class="ai ai-zenodo ai-3x">}}
 {{<i class="ms ms-grass-gis ms-2x">}}
+{{<i class="ms ms-database">}}
+{{<i class="ms ms-directory">}}
 {{<i class="fab fa-creative-commons">}}
+{{<i class="fab fa-creative-commons-zero">}}
 {{<i class="fas fa-coffee">}}
 {{<i class="fas fa-braille">}}
 -->
