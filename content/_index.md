@@ -32,25 +32,25 @@ This project was supported by the
 [LSU Coastal Sustainability Studio](https://css.lsu.edu/)
 and funded by the
 [National Park Service's Historic Preservation Fund](https://www.nps.gov/subjects/historicpreservationfund/index.htm).
-<!-- Add download links -->
+The datasets are licensed [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-**Point Clouds Viewers**
+**Point Clouds Viewers & Datasets**
 
-{{<i class="fas fa-braille">}} [Landscape](https://xyz.cct.lsu.edu/data/rosedown/landscape.html "Point Cloud Viewer for Rosedown Landscape")
+[{{<i class="fas fa-braille">}} Landscape](https://xyz.cct.lsu.edu/data/rosedown/landscape.html "Point Cloud Viewer for Rosedown Landscape")  + [{{<i class="ms ms-database">}} landscape.laz](https://xyz.cct.lsu.edu/data/rosedown/landscape.laz "LAZ Point Cloud Dataset for Rosedown Landscape")
 
-{{<i class="fas fa-braille">}} [Interior](https://xyz.cct.lsu.edu/data/rosedown/interior.html "Point Cloud Viewer for Rosedown Interior")
+[{{<i class="fas fa-braille">}} Interior](https://xyz.cct.lsu.edu/data/rosedown/interior.html "Point Cloud Viewer for Rosedown Interior")
 
-{{<i class="fas fa-braille">}} [House](https://xyz.cct.lsu.edu/data/rosedown/house.html "Point Cloud Viewer for Rosedown House")
+[{{<i class="fas fa-braille">}} House](https://xyz.cct.lsu.edu/data/rosedown/house.html "Point Cloud Viewer for Rosedown House")
 
-{{<i class="fas fa-braille">}} [Rockery](https://xyz.cct.lsu.edu/data/rosedown/rockery.html "Point Cloud Viewer for Rosedown Rockery")
+[{{<i class="fas fa-braille">}} Rockery](https://xyz.cct.lsu.edu/data/rosedown/rockery.html "Point Cloud Viewer for Rosedown Rockery") + [{{<i class="ms ms-database">}} rockery.laz](https://xyz.cct.lsu.edu/data/rosedown/rockery.laz "LAZ Point Cloud Dataset for Rosedown Rockery")
 
-{{<i class="fas fa-braille">}} [Dining Room](https://xyz.cct.lsu.edu/data/rosedown/dining-room.html "Point Cloud Viewer for Rosedown Dining Room")
+[{{<i class="fas fa-braille">}} Dining Room](https://xyz.cct.lsu.edu/data/rosedown/dining-room.html "Point Cloud Viewer for Rosedown Dining Room") + [{{<i class="ms ms-database">}} dining-room.laz](https://xyz.cct.lsu.edu/data/rosedown/dining-room.laz "LAZ Point Cloud Dataset for Rosedown Dining Room")
 
-{{<i class="fas fa-braille">}} [Allée](https://xyz.cct.lsu.edu/data/rosedown/allee.html "Point Cloud Viewer for Rosedown Allée")
+[{{<i class="fas fa-braille">}} Allée](https://xyz.cct.lsu.edu/data/rosedown/allee.html "Point Cloud Viewer for Rosedown Allée")
 
-{{<i class="fas fa-braille">}} [Formal Garden](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.html "Point Cloud Viewer for Rosedown Formal Garden")
+[{{<i class="fas fa-braille">}} Formal Garden](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.html "Point Cloud Viewer for Rosedown Formal Garden")
 
-{{<i class="fas fa-braille">}} [Martha's Screen](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.html "Point Cloud Viewer for Martha's Screen")
+[{{<i class="fas fa-braille">}} Martha's Screen](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.html "Point Cloud Viewer for Martha's Screen")
 
 <!-- Add milk house and complete Rosedown point clouds-->
 
