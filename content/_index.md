@@ -3,7 +3,7 @@ date: "2017-06-26T18:27:58+01:00"
 title: "Point Clouds"
 ---
 
-![Landscape](landscape-3.jpg)
+![Rosedown Landscape](landscape.jpg)
 
 Welcome to **XYZ Project**,
 a collection of point clouds from laser scanning and photogrammetry
@@ -12,7 +12,8 @@ by Louisiana State University's
 
 {{< expandable label="Rosedown" level="2" >}}
 
-{{< potree rosedown interior >}}
+![Rosedown Dining Room](dining-room.jpg)
+<!-- {{< potree rosedown interior >}} -->
 
 **Rosedown Plantation, St. Francisville, Louisiana**
 
@@ -34,31 +35,51 @@ and funded by the
 [National Park Service's Historic Preservation Fund](https://www.nps.gov/subjects/historicpreservationfund/index.htm).
 The datasets are licensed [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-**Point Clouds Viewers & Datasets**
+**Rosedown Point Cloud Viewer**
 
-[{{<i class="fas fa-braille">}} Landscape](https://xyz.cct.lsu.edu/data/rosedown/landscape.html "Point Cloud Viewer for Rosedown Landscape")  + [{{<i class="ms ms-database">}} landscape.laz](https://xyz.cct.lsu.edu/data/rosedown/landscape.laz "LAZ Point Cloud Dataset for Rosedown Landscape")
+The model of Rosedown is composed of
+many separate point clouds,
+each recording an important element
+of the plantation.
+This point cloud viewer presents
+the collection as an ensemble
+that can be explored by
+toggling on or off layers.
+Open the viewer,
+expand its menu,
+then expand the scene tab, and
+turn on or off point cloud layers.
 
-[{{<i class="fas fa-braille">}} Interior](https://xyz.cct.lsu.edu/data/rosedown/interior.html "Point Cloud Viewer for Rosedown Interior")
+[{{<i class="fas fa-braille">}} Rosedown](https://xyz.cct.lsu.edu/data/rosedown/rosedown.html "Point Cloud Viewer for Rosedown Plantation")
+
+**Point Datasets**
 
 [{{<i class="fas fa-braille">}} House](https://xyz.cct.lsu.edu/data/rosedown/house.html "Point Cloud Viewer for Rosedown House")
 
-[{{<i class="fas fa-braille">}} Rockery](https://xyz.cct.lsu.edu/data/rosedown/rockery.html "Point Cloud Viewer for Rosedown Rockery") + [{{<i class="ms ms-database">}} rockery.laz](https://xyz.cct.lsu.edu/data/rosedown/rockery.laz "LAZ Point Cloud Dataset for Rosedown Rockery")
+[{{<i class="fas fa-braille">}} Interior](https://xyz.cct.lsu.edu/data/rosedown/interior.html "Point Cloud Viewer for Rosedown Interior")
 
-[{{<i class="fas fa-braille">}} Dining Room](https://xyz.cct.lsu.edu/data/rosedown/dining-room.html "Point Cloud Viewer for Rosedown Dining Room") + [{{<i class="ms ms-database">}} dining-room.laz](https://xyz.cct.lsu.edu/data/rosedown/dining-room.laz "LAZ Point Cloud Dataset for Rosedown Dining Room")
+[{{<i class="fas fa-braille">}} Landscape](https://xyz.cct.lsu.edu/data/rosedown/landscape.html "Point Cloud Viewer for Rosedown Landscape")  + [{{<i class="ms ms-database">}} landscape.laz](https://xyz.cct.lsu.edu/data/rosedown/landscape.laz "LAZ Point Cloud Dataset for Rosedown Landscape")
 
 [{{<i class="fas fa-braille">}} Allée](https://xyz.cct.lsu.edu/data/rosedown/allee.html "Point Cloud Viewer for Rosedown Allée")
 
+[{{<i class="fas fa-braille">}} Rockery](https://xyz.cct.lsu.edu/data/rosedown/rockery.html "Point Cloud Viewer for Rosedown Rockery") + [{{<i class="ms ms-database">}} rockery.laz](https://xyz.cct.lsu.edu/data/rosedown/rockery.laz "LAZ Point Cloud Dataset for Rosedown Rockery")
+
 [{{<i class="fas fa-braille">}} Formal Garden](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.html "Point Cloud Viewer for Rosedown Formal Garden")
 
-[{{<i class="fas fa-braille">}} Martha's Screen](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.html "Point Cloud Viewer for Martha's Screen")
+[{{<i class="fas fa-braille">}} Gazebo](https://xyz.cct.lsu.edu/data/rosedown/gazebo.html "Point Cloud Viewer for Rosedown Gazebo")
 
-<!-- Add milk house and complete Rosedown point clouds-->
+[{{<i class="fas fa-braille">}} Milk House](https://xyz.cct.lsu.edu/data/rosedown/milk-house.html "Point Cloud Viewer for Rosedown Milk House")
+
+[{{<i class="fas fa-braille">}} Dining Room](https://xyz.cct.lsu.edu/data/rosedown/dining-room.html "Point Cloud Viewer for Rosedown Dining Room") + [{{<i class="ms ms-database">}} dining-room.laz](https://xyz.cct.lsu.edu/data/rosedown/dining-room.laz "LAZ Point Cloud Dataset for Rosedown Dining Room")
+
+[{{<i class="fas fa-braille">}} Martha's Screen](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.html "Point Cloud Viewer for Martha's Screen")
 
 {{< /expandable >}}
 
 {{< expandable label="Hilltop" level="2" >}}
 
-{{< potree hilltop meadow >}}
+![Hilltop Arboretum](transect-biomass-2020.png)
+<!-- {{< potree hilltop meadow >}} -->
 
 **Hilltop Arboretum, Baton Rouge, Louisiana**
 
@@ -123,7 +144,8 @@ turning on or off point cloud layers.
 
 {{< expandable label="Avery Island" level="2" >}}
 
-{{< potree averyisland buddha >}}
+![Avery Island Buddha](buddha.png)
+<!-- {{< potree averyisland buddha >}} -->
 
 **Jungle Gardens, Avery Island, Louisiana**
 
