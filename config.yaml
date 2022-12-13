@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: Point clouds from laser scanning and photogrammetry for the [XYZ Project](https://xyz.cct.lsu.edu/).
+  description: Point clouds from laser scanning and photogrammetry.
   homeMetaContent: Point clouds from laser scanning and photogrammetry.
   footer: <i class="fab fa-creative-commons"></i> [Brendan Harmon](https://baharmon.github.io/)
   # For more date formats see https://gohugo.io/functions/format/
