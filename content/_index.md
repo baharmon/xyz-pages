@@ -52,27 +52,27 @@ turn on or off point cloud layers.
 
 [{{<i class="fas fa-braille">}} Rosedown](https://xyz.cct.lsu.edu/data/rosedown/rosedown.html "Point Cloud Viewer for Rosedown Plantation")
 
-**Point Datasets**
+**Point Cloud Datasets**
 
-[{{<i class="fas fa-braille">}} House](https://xyz.cct.lsu.edu/data/rosedown/house.html "Point Cloud Viewer for Rosedown House")
+[{{<i class="fas fa-braille">}} House](https://xyz.cct.lsu.edu/data/rosedown/house.html "Point Cloud Viewer for Rosedown House") + [{{<i class="ms ms-database">}} house.laz](https://xyz.cct.lsu.edu/data/rosedown/house.laz "LAZ Point Cloud Dataset for Rosedown House")
 
-[{{<i class="fas fa-braille">}} Interior](https://xyz.cct.lsu.edu/data/rosedown/interior.html "Point Cloud Viewer for Rosedown Interior")
+[{{<i class="fas fa-braille">}} Interior](https://xyz.cct.lsu.edu/data/rosedown/interior.html "Point Cloud Viewer for Rosedown Interior") + [{{<i class="ms ms-database">}} interior.laz](https://xyz.cct.lsu.edu/data/rosedown/interior.laz "LAZ Point Cloud Dataset for Rosedown Interior")
 
 [{{<i class="fas fa-braille">}} Landscape](https://xyz.cct.lsu.edu/data/rosedown/landscape.html "Point Cloud Viewer for Rosedown Landscape")  + [{{<i class="ms ms-database">}} landscape.laz](https://xyz.cct.lsu.edu/data/rosedown/landscape.laz "LAZ Point Cloud Dataset for Rosedown Landscape")
 
-[{{<i class="fas fa-braille">}} Allée](https://xyz.cct.lsu.edu/data/rosedown/allee.html "Point Cloud Viewer for Rosedown Allée")
+[{{<i class="fas fa-braille">}} Allée](https://xyz.cct.lsu.edu/data/rosedown/allee.html "Point Cloud Viewer for Rosedown Allée") + [{{<i class="ms ms-database">}} allee.laz](https://xyz.cct.lsu.edu/data/rosedown/allee.laz "LAZ Point Cloud Dataset for Rosedown Allée")
 
 [{{<i class="fas fa-braille">}} Rockery](https://xyz.cct.lsu.edu/data/rosedown/rockery.html "Point Cloud Viewer for Rosedown Rockery") + [{{<i class="ms ms-database">}} rockery.laz](https://xyz.cct.lsu.edu/data/rosedown/rockery.laz "LAZ Point Cloud Dataset for Rosedown Rockery")
 
-[{{<i class="fas fa-braille">}} Formal Garden](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.html "Point Cloud Viewer for Rosedown Formal Garden")
+[{{<i class="fas fa-braille">}} Formal Garden](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.html "Point Cloud Viewer for Rosedown Formal Garden")  + [{{<i class="ms ms-database">}} formal-garden.laz](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.laz "LAZ Point Cloud Dataset for Rosedown Formal Garden")
 
-[{{<i class="fas fa-braille">}} Gazebo](https://xyz.cct.lsu.edu/data/rosedown/gazebo.html "Point Cloud Viewer for Rosedown Gazebo")
+[{{<i class="fas fa-braille">}} Gazebo](https://xyz.cct.lsu.edu/data/rosedown/gazebo.html "Point Cloud Viewer for Rosedown Gazebo") + [{{<i class="ms ms-database">}} gazebo.laz](https://xyz.cct.lsu.edu/data/rosedown/gazebo.laz "LAZ Point Cloud Dataset for Rosedown Gazebo")
 
-[{{<i class="fas fa-braille">}} Milk House](https://xyz.cct.lsu.edu/data/rosedown/milk-house.html "Point Cloud Viewer for Rosedown Milk House")
+[{{<i class="fas fa-braille">}} Milk House](https://xyz.cct.lsu.edu/data/rosedown/milk-house.html "Point Cloud Viewer for Rosedown Milk House") + [{{<i class="ms ms-database">}} milk-house.laz](https://xyz.cct.lsu.edu/data/rosedown/milk-house.laz "LAZ Point Cloud Dataset for Rosedown Milk House")
 
 [{{<i class="fas fa-braille">}} Dining Room](https://xyz.cct.lsu.edu/data/rosedown/dining-room.html "Point Cloud Viewer for Rosedown Dining Room") + [{{<i class="ms ms-database">}} dining-room.laz](https://xyz.cct.lsu.edu/data/rosedown/dining-room.laz "LAZ Point Cloud Dataset for Rosedown Dining Room")
 
-[{{<i class="fas fa-braille">}} Martha's Screen](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.html "Point Cloud Viewer for Martha's Screen")
+[{{<i class="fas fa-braille">}} Martha's Screen](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.html "Point Cloud Viewer for Martha's Screen") + [{{<i class="ms ms-database">}} marthas-screen.laz](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.laz "LAZ Point Cloud Dataset for Martha's Screen at Rosedown")
 
 {{< /expandable >}}
 
@@ -104,7 +104,7 @@ This project was supported by the
 [LSU Center for GeoInformatics](http://c4g.lsu.edu/).
 The datasets are licensed [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-**Point Clouds Time Series Viewers**
+**Point Cloud Time Series Viewers**
 
 Explore the time series of point clouds
 with [Potree](http://potree.org/)
