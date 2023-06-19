@@ -138,6 +138,8 @@ turning on or off point cloud layers.
 
 [{{<i class="ms ms-database">}} hilltop-2022-12-07.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2022-12-07.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, December 7, 2022")
 
+[{{<i class="ms ms-database">}} hilltop-2023-06-18.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2023-06-18.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, June 18, 2023")
+
 [{{<i class="ms ms-database">}} biomass-2020.laz](https://xyz.cct.lsu.edu/data/hilltop/biomass-2020.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, Net Annual Biomass 2020")
 
 [{{<i class="ms ms-database">}} carbon-2020.laz](https://xyz.cct.lsu.edu/data/hilltop/carbon-2020.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, Net Annual Carbon 2020")
