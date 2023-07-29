@@ -165,10 +165,38 @@ The point cloud is licensed [{{<i class="fab fa-creative-commons-zero">}} Creati
 
 {{< /expandable >}}
 
+{{< expandable label="Cloud Forest" level="2" >}}
+
+![Magnolia soulangeana](magnolia-soulangeana-02.png)
+
+**Cloud Forest** is a collection of laser scanned trees and other plants.
+Each plant is available as ``laz``, ``e57``, ``pcd``, ``xyz``, and ``3dm`` format point clouds.
+The project lead is [Brendan Harmon](https://baharmon.github.io/).
+The project team includes Javier Zamora, Huan Guo, Jacob Contreras, and Ryan Antoon.
+The point clouds are released under the [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/)
+public domain dedication.
+[{{<i class="ai ai-doi">}} 10.5281/zenodo.8194067](https://doi.org/10.5281/zenodo.8194067)
+
+[{{<i class="ms ms-database">}} Laurus nobilis I](laurus-nobilis-01)
+
+[{{<i class="ms ms-database">}} Magnolia soulangeana I](magnolia-soulangeana-01) 
+
+[{{<i class="ms ms-database">}} Magnolia soulangeana II](magnolia-soulangeana-02)
+
+[{{<i class="ms ms-database">}} Morella californica I](morella-californica-01)
+
+[{{<i class="ms ms-database">}} Polystichum acrostichoides I](polystichum-acrostichoides-01) 
+
+[{{<i class="ms ms-database">}} Quercus alba I](quercus-alba-01)
+
+{{< /expandable >}}
+
+
 <!-- {{< map >}} -->
 
 <!--
 {{<i class="ai ai-zenodo ai-3x">}}
+{{<i class="ai ai-doi">}}
 {{<i class="ms ms-grass-gis ms-2x">}}
 {{<i class="ms ms-database">}}
 {{<i class="ms ms-directory">}}
