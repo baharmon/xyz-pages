@@ -44,6 +44,17 @@
     </item>
     
     <item>
+      <title>Monarch of the Swamp</title>
+      <link>https://xyz.cct.lsu.edu/monarch-of-the-swamp/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/monarch-of-the-swamp/</guid>
+      <description>Bald Cypress Barataria Preserve, Jean Lafitte National Park, Louisiana
+ Viewer
+Point Clouds: laz + e57 + pcd + xyz + 3dm</description>
+    </item>
+    
+    <item>
       <title>Morella californica</title>
       <link>https://xyz.cct.lsu.edu/morella-californica-01/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
@@ -85,7 +96,7 @@
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://xyz.cct.lsu.edu/about/</guid>
-      <description>This is a collection of point clouds from photogrammetry and laser scanning recording the cultural heritage of landscapes. The team from Louisiana State University&amp;rsquo;s College of Art and Design includes Prof. Brendan Harmon, Prof. Nicholas Serrano, and Prof. William Ma. This research was supported by the LSU Center for GeoInformatics and funded by the National Park Service&amp;rsquo;s Historic Preservation Fund.</description>
+      <description>This is a collection of point clouds from photogrammetry and laser scanning recording the cultural heritage of landscapes. The team from Louisiana State University&amp;rsquo;s College of Art and Design includes Prof. Brendan Harmon, Prof. Hye Yeon Nam, Prof. Nicholas Serrano, and Prof. William Ma. This research was supported by the LSU Center for GeoInformatics and funded by the National Park Service&amp;rsquo;s Historic Preservation Fund and the LSU Arts &amp;amp; Humanities Project Support Fund.</description>
     </item>
     
   </channel>

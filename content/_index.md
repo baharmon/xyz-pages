@@ -173,24 +173,46 @@ The point cloud is licensed [{{<i class="fab fa-creative-commons-zero">}} Creati
 Each plant is available as ``laz``, ``e57``, ``pcd``, ``xyz``, and ``3dm`` format point clouds.
 The project lead is [Brendan Harmon](https://baharmon.github.io/).
 The project team includes Javier Zamora, Huan Guo, Jacob Contreras, and Ryan Antoon.
-The point clouds are released under the [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/)
+The point clouds are released under the
+[{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/)
 public domain dedication.
 [{{<i class="ai ai-doi">}} 10.5281/zenodo.8194067](https://doi.org/10.5281/zenodo.8194067)
 
 [{{<i class="ms ms-database">}} Laurus nobilis I](laurus-nobilis-01)
 
-[{{<i class="ms ms-database">}} Magnolia soulangeana I](magnolia-soulangeana-01) 
+[{{<i class="ms ms-database">}} Magnolia soulangeana I](magnolia-soulangeana-01)
 
 [{{<i class="ms ms-database">}} Magnolia soulangeana II](magnolia-soulangeana-02)
 
 [{{<i class="ms ms-database">}} Morella californica I](morella-californica-01)
 
-[{{<i class="ms ms-database">}} Polystichum acrostichoides I](polystichum-acrostichoides-01) 
+[{{<i class="ms ms-database">}} Polystichum acrostichoides I](polystichum-acrostichoides-01)
 
 [{{<i class="ms ms-database">}} Quercus alba I](quercus-alba-01)
 
 {{< /expandable >}}
 
+{{< expandable label="Atlas of Heritage Trees" level="2" >}}
+
+![Monarch of the Swamp](monarch-of-the-swamp.png)
+
+**The Atlas of Heritage Trees**
+is an archive of ancient trees
+of exceptional historical, cultural, and ecological significance.
+The trees, captured using terrestrial laser scanning and drone lidar,
+have been archived in
+``laz``, ``e57``, ``pcd``, ``xyz``, and ``3dm`` format point clouds.
+This project was funded by the LSU Arts & Humanities Support Fund.
+The project lead is [Brendan Harmon](https://baharmon.github.io/).
+The project team includes Javier Zamora and Huan Guo.
+The point clouds are released under the
+[{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/)
+public domain dedication.
+<!-- [{{<i class="ai ai-doi">}} 10.5281/zenodo.8194067](https://doi.org/10.5281/zenodo.8194067) -->
+
+[{{<i class="ms ms-database">}} Monarch of the Swamp](monarch-of-the-swamp)
+
+{{< /expandable >}}
 
 <!-- {{< map >}} -->
 
