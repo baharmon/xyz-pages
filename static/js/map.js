@@ -1,7 +1,5 @@
 // reload elements
-//var container = L.DomUtil.get('map'); if(container != null){ container._leaflet_id = null; }
-L.map.off();
-L. map.remove();
+var container = L.DomUtil.get('map'); if(container != null){ container._leaflet_id = null; }
 
 // create map
 var mymap = L.map('map').setView([30.411804, -91.180910], 7);
