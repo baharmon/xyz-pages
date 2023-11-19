@@ -1,3 +1,6 @@
+// reload elements
+map.off();
+map.remove();
 
 // create map
 var mymap = L.map('map').setView([30.411804, -91.180910], 7);
@@ -7,7 +10,6 @@ L.tileLayer('https://tiles.stadiamaps.com/tiles/stamen_toner_lite/{z}/{x}/{y}{r}
 	attribution: '&copy; <a href="https://www.stadiamaps.com/" target="_blank">Stadia Maps</a> &copy; <a href="https://www.stamen.com/" target="_blank">Stamen Design</a> &copy; <a href="https://openmaptiles.org/" target="_blank">OpenMapTiles</a> &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 	ext: 'png'
 }).addTo(mymap);
-mymap.invalidateSize();
 
 // create custom markers
 var markerIcon = new L.Icon({
