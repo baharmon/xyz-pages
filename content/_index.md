@@ -225,7 +225,7 @@ public domain dedication.
 
 {{< /expandable >}}
 
- {{< map >}} 
+{{< map >}}
 
 <!--
 {{<i class="ai ai-zenodo ai-3x">}}
