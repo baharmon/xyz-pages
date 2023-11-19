@@ -17,8 +17,8 @@ imaging:
   quality: 99
 
 params:
-  description: Point clouds from laser scanning and photogrammetry.
-  homeMetaContent: Point clouds from laser scanning and photogrammetry.
+  description: Point Cloud Repository
+  homeMetaContent: Point Cloud Repository
   footer: <i class="fab fa-creative-commons"></i> [Brendan Harmon](https://baharmon.github.io/)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
@@ -31,7 +31,7 @@ params:
   defaultDarkTheme: false
   moveFooterToHeader: false
   # navTitleText: Cupper Theme
-  logoAlt: An alternative text description of the logo
+  logoAlt: Point cloud logo
   customCss:
     - css/academicons.css
     - css/mapskin.css
@@ -44,24 +44,25 @@ params:
   customJs:
     - js/L.Control.Sidebar.js
     - js/leaflet-providers.js
+    - js/map.js
 
 menu:
   nav:
     - name: Home
       url: /
       weight: 1
-    - name: Blog
-      url: /post/
-      weight: 2
-    - name: Tags
-      url: /tags/
-      weight: 3
     - name: About
       url: /about/
-      weight: 4
-    - name: RSS
-      url: /index.xml
-      weight: 5
+      weight: 2
+#    - name: Blog
+#      url: /post/
+#      weight: 3
+#    - name: Tags
+#      url: /tags/
+#      weight: 4
+#    - name: RSS
+#      url: /index.xml
+#      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark

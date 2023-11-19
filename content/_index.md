@@ -194,7 +194,7 @@ public domain dedication.
 
 {{< expandable label="Atlas of Heritage Trees" level="2" >}}
 
-![Monarch of the Swamp](monarch-of-the-swamp.png)
+![Monarch of the Swamp](big-cypress.jpg)
 
 **The Atlas of Heritage Trees**
 is an archive of ancient trees
@@ -203,17 +203,29 @@ The trees, captured using terrestrial laser scanning and drone lidar,
 have been archived in
 ``laz``, ``e57``, ``pcd``, ``xyz``, and ``3dm`` format point clouds.
 This project was funded by the LSU Arts & Humanities Support Fund.
-The project lead is [Brendan Harmon](https://baharmon.github.io/).
-The project team includes Javier Zamora and Huan Guo.
+The project leads are [Brendan Harmon](https://baharmon.github.io/)
+and [Hye Yeon Nam](https://hynam.org/).
+Contributors include 
+Javier Zamora, 
+Huan Guo, 
+William Reinhardt, 
+Julie Whitbeck, 
+Kaiti Fink, 
+and Jeff Boucher.
 The point clouds are released under the
 [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/)
 public domain dedication.
+[{{<i class="ai ai-doi">}} 10.5281/zenodo.8353292](https://zenodo.org/doi/10.5281/zenodo.8353292)
+
+[{{<i class="ms ms-database">}} Big Cypress](big-cypress)
 
 [{{<i class="ms ms-database">}} Monarch of the Swamp](monarch-of-the-swamp)
 
+[{{<i class="ms ms-database">}} Duelling Oak](duelling-oak)
+
 {{< /expandable >}}
 
-<!-- {{< map >}} -->
+ {{< map >}} 
 
 <!--
 {{<i class="ai ai-zenodo ai-3x">}}

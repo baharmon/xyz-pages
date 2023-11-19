@@ -8,6 +8,40 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://xyz.cct.lsu.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Big Cypress</title>
+      <link>https://xyz.cct.lsu.edu/big-cypress/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/big-cypress/</guid>
+      <description>Cat Island Specimen: Big Cypress
+Location: Cat Island National Wildlife Refuge, Louisiana
+Latin Name: Taxodium distichum
+Common Name: Bald Cypress
+Estimated Age: 1500
+Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, &amp;amp; Huan Guo
+ Viewer
+Point Clouds: laz + e57 + pcd + xyz + 3dm
+Mesh: stl</description>
+    </item>
+    
+    <item>
+      <title>Duelling Oak</title>
+      <link>https://xyz.cct.lsu.edu/duelling-oak/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/duelling-oak/</guid>
+      <description>New Orleans City Park Specimen: Duelling Oak
+Location: City Park, New Orleans, Louisiana
+Latin Name: Quercus virginiana
+Common Name: Southern Live Oak
+Estimated Age: 300
+Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, &amp;amp; Huan Guo
+ Viewer
+Point Clouds: laz + e57 + pcd + xyz + 3dm
+Mesh: stl</description>
+    </item>
+    
+    <item>
       <title>Laurus nobilis</title>
       <link>https://xyz.cct.lsu.edu/laurus-nobilis-01/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
@@ -49,9 +83,15 @@
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://xyz.cct.lsu.edu/monarch-of-the-swamp/</guid>
-      <description>Bald Cypress Barataria Preserve, Jean Lafitte National Park, Louisiana
+      <description>Barataria Preserve Specimen: Monarch of the Swamp
+Location: Barataria Preserve, Jean Lafitte National Park, Louisiana
+Latin Name: Taxodium distichum
+Common Name: Bald Cypress
+Estimated Age: 600
+Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, Huan Guo, William Reinhardt, Julie Whitbeck, Kaiti Fink, &amp;amp; Jeff Boucher
  Viewer
-Point Clouds: laz + e57 + pcd + xyz + 3dm</description>
+Point Clouds: laz + e57 + pcd + xyz + 3dm
+Mesh: stl</description>
     </item>
     
     <item>
