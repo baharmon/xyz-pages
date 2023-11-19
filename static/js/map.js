@@ -34,5 +34,5 @@ $.getJSON("locations.json",function(data){
     onEachFeature: onEachFeature
   }).addTo(mymap)
   // mymap.fitBounds(geojson.getBounds(), {padding: L.point(20, 20)});
-  // mymap.invalidateSize();
+   mymap.invalidateSize();
 });
