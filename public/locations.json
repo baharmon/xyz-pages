@@ -5,21 +5,78 @@
     "type": "Feature",
     "properties": {
         "name": "Rosedown",
-        "location": "Rosedown Plantation, St. Francisville, LA, USA"
+        "location": "Rosedown Plantation, St. Francisville, LA, USA",
+        "url": "https://xyz.cct.lsu.edu/data/rosedown/rosedown.html"
     },
     "geometry": {
         "type": "Point",
         "coordinates": [-91.3709458, 30.7960156]
     }
-}, {
+},{
     "type": "Feature",
     "properties": {
-        "name": "Hilltop",
-        "location": "LSU Hilltop Arboretum, Baton Rouge, LA, USA"
+        "name": "Hilltop Arboretum",
+        "location": "LSU Hilltop Arboretum, Baton Rouge, LA, USA",
+        "url": "https://xyz.cct.lsu.edu/data/hilltop/arboretum.html"
     },
     "geometry": {
         "type": "Point",
         "coordinates": [-91.094991, 30.356135]
+    }
+},{
+    "type": "Feature",
+    "properties": {
+        "name": "Avery Island Buddha",
+        "location": "Jungle Gardens, Avery Island, Louisiana",
+        "url": "https://xyz.cct.lsu.edu/data/averyisland/buddha.html"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-91.916512, 29.908539]
+    }
+},{
+    "type": "Feature",
+    "properties": {
+        "name": "Cloud Forest",
+        "location": "Louisiana State University, Baton Rouge, Louisiana",
+        "url": "https://doi.org/10.5281/zenodo.8194067"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-91.180664, 30.412156]
+    }
+},{
+    "type": "Feature",
+    "properties": {
+        "name": "Big Cypress",
+        "location": "Cat Island National Wildlife Refuge, Louisiana",
+        "url": "https://xyz.cct.lsu.edu/big-cypress"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-91.475973, 30.764542]
+    }
+},{
+    "type": "Feature",
+    "properties": {
+        "name": "Monarch of the Swamp",
+        "location": "Barataria Preserve, Jean Lafitte National Park, Louisiana",
+        "url": "https://xyz.cct.lsu.edu/monarch-of-the-swamp"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-90.128262, 29.791151]
+    }
+},{
+    "type": "Feature",
+    "properties": {
+        "name": "Duelling Oak",
+        "location": "City Park, New Orleans, Louisiana",
+        "url": "https://xyz.cct.lsu.edu/duelling-oak"
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [-90.094163, 29.985627]
     }
 }
 ]
