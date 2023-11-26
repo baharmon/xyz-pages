@@ -72,6 +72,10 @@ menu:
     - name: Heritage Trees
       url: /atlas-of-heritage-trees/
       weight: 8
+    - name: Burial Grounds
+      url: /african-american-burial-grounds/
+      weight: 9
+      
 
 markup:
   defaultMarkdownHandler: goldmark

@@ -182,6 +182,18 @@ Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, Huan Guo, William Reinhardt, 
     </item>
     
     <item>
+      <title>African American Burial Grounds</title>
+      <link>https://xyz.cct.lsu.edu/african-american-burial-grounds/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/african-american-burial-grounds/</guid>
+      <description>Location: Alford Cemetery, West Baton Rouge Parish, Louisiana
+Team: Annicia Streete, Brendan Harmon, and Nicholas Serrano.
+Funding: National Park Service Preservation Technology and Training Grant
+This project aims to document African American burial grounds in the Louisiana River Parishes. The Louisiana River Parishes are scattered with hundreds of African American cemeteries dating back to the antebellum period when plantations lined both sides of the Mississippi River. This history of environmental racism continued into the 20th century as the region was favored for hazardous petrochemical production facilities.</description>
+    </item>
+    
+    <item>
       <title>Hilltop Arboretum</title>
       <link>https://xyz.cct.lsu.edu/hilltop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -189,7 +201,7 @@ Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, Huan Guo, William Reinhardt, 
       <guid>https://xyz.cct.lsu.edu/hilltop/</guid>
       <description>Hilltop Photogrammetry Location: Hilltop Arboretum, Baton Rouge, Louisiana
 Team: Brendan Harmon, Josef Horacek, Dan Cooke, &amp;amp; Matthew Cranney
-Equipment FireFLY Pro 6 with MicaSense RedEdge-M sensor
+Equipment: FireFLY Pro 6 with MicaSense RedEdge-M sensor
 A Cajun Prairie Wildflower Meadow was established in 2020 at the LSU Hilltop Arboretum in Baton Rouge, Louisiana. Five fields have been restored as coastal tallgrass prairie, a highly endangered ecosystem of which only one percent remains intact. From 2020 to 2021, the evolution of the newly established meadow was recorded with a series of monthly aerial surveys by a drone with a multispectral sensor.</description>
     </item>
     
@@ -201,7 +213,7 @@ A Cajun Prairie Wildflower Meadow was established in 2020 at the LSU Hilltop Arb
       <guid>https://xyz.cct.lsu.edu/hilltop-lidar/</guid>
       <description>Location: Hilltop Arboretum, Baton Rouge, Louisiana
 Team: Brendan Harmon
-Equipment DJI Matrice 300 RTK with L1 Lidar
+Equipment: DJI Matrice 300 RTK with L1 Lidar
 From 2022 onwards the meadow is being surveyed annually using a drone with lidar. The ongoing surveys are conducted with a DJI Matrice 300 RTK drone with an L1 lidar sensor. This project is supported by the LSU Center for GeoInformatics. The datasets are licensed Creative Commons Zero.
 Lidar 2022 + hilltop-2022-12-07.</description>
     </item>

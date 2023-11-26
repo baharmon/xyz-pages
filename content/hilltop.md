@@ -10,7 +10,7 @@ title = "Hilltop Arboretum"
 [Brendan Harmon](https://baharmon.github.io/),
 Josef Horacek, Dan Cooke, & Matthew Cranney
 
-**Equipment**
+**Equipment:**
 FireFLY Pro 6 with MicaSense RedEdge-M sensor
 
 A Cajun Prairie Wildflower Meadow was established in 2020 at the

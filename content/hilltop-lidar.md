@@ -7,7 +7,7 @@ title: "Hilltop Arboretum Lidar"
 **Team:** 
 [Brendan Harmon](https://baharmon.github.io/)
 
-**Equipment**
+**Equipment:**
 DJI Matrice 300 RTK with L1 Lidar
 
 From 2022 onwards
