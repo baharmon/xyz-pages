@@ -8,6 +8,76 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://xyz.cct.lsu.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Atlas of Heritage Trees</title>
+      <link>https://xyz.cct.lsu.edu/atlas-of-heritage-trees/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/atlas-of-heritage-trees/</guid>
+      <description>The Atlas of Heritage Trees is an archive of ancient trees of exceptional historical, cultural, and ecological significance. The trees, captured using terrestrial laser scanning and drone lidar, have been archived in laz, e57, pcd, xyz, and 3dm format point clouds. This project was funded by the LSU Arts &amp;amp; Humanities Support Fund. The project leads are Brendan Harmon and Hye Yeon Nam. Contributors include Javier Zamora, Huan Guo, William Reinhardt, Julie Whitbeck, Kaiti Fink, and Jeff Boucher.</description>
+    </item>
+    
+    <item>
+      <title>Avery Island Buddha</title>
+      <link>https://xyz.cct.lsu.edu/avery-island-buddha/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/avery-island-buddha/</guid>
+      <description>Location: Jungle Gardens, Avery Island, Louisiana
+Team: Brendan Harmon &amp;amp; William Ma
+A laser scan of the Buddha in the Jungle Gardens on Avery Island in Louisiana by Brendan Harmon and William Ma. The point cloud is licensed Creative Commons Zero.
+ Viewer
+Point Clouds</description>
+    </item>
+    
+    <item>
+      <title>Cloud Forest</title>
+      <link>https://xyz.cct.lsu.edu/cloud-forest/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/cloud-forest/</guid>
+      <description>Cloud Forest is a collection of laser scanned trees and other plants. Each plant is available as laz, e57, pcd, xyz, and 3dm format point clouds. The project lead is Brendan Harmon. The project team includes Javier Zamora, Huan Guo, Jacob Contreras, and Ryan Antoon. The point clouds are released under the Creative Commons Zero public domain dedication. 10.5281/zenodo.8194067
+ Laurus nobilis I
+Magnolia soulangeana I</description>
+    </item>
+    
+    <item>
+      <title>Hilltop Arboretum Lidar</title>
+      <link>https://xyz.cct.lsu.edu/hilltop-lidar/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/hilltop-lidar/</guid>
+      <description>Location: Hilltop Arboretum, Baton Rouge, Louisiana
+Team: Brendan Harmon
+The surveys were conducted with a DJI Matrice 300 RTK with an L1 lidar sensor. This project was supported by the LSU Center for GeoInformatics. The datasets are licensed Creative Commons Zero.
+Point Cloud Time Series Viewers
+Explore the time series of point clouds with Potree by expanding the point cloud viewer&amp;rsquo;s menu, expanding the scene tab, and turning on or off point cloud layers.</description>
+    </item>
+    
+    <item>
+      <title>Rosedown</title>
+      <link>https://xyz.cct.lsu.edu/rosedown/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/rosedown/</guid>
+      <description>Location: Rosedown Plantation, St. Francisville, Louisiana
+Team: Brendan Harmon, Nicholas Serrano, Josef Horacek, Sasha Matthieu, William Conrad, Javier Zamora, Matthew Cranney, &amp;amp; Ming Li
+Funding: National Park Service&amp;rsquo;s Historic Preservation Fund
+Rosedown is a two hundred acre site in St. Francisville, Louisiana with the well preserved remains of an antebellum plantation dating from 1834 including the main house, ancillary buildings, and formal gardens. The point cloud of Rosedown was created using terrestrial laser scanning with a Faro Focus and drone photogrammetry with a DJI Matrice 600 Pro with Zenmuse X5 camera.</description>
+    </item>
+    
+    <item>
+      <title>Title</title>
+      <link>https://xyz.cct.lsu.edu/template/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/template/</guid>
+      <description>Subtitle Location:
+Team: Brendan Harmon, Hye Yeon Nam, etc.
+ Viewer
+Point Clouds</description>
+    </item>
+    
+    <item>
       <title>Big Cypress</title>
       <link>https://xyz.cct.lsu.edu/big-cypress/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
@@ -137,6 +207,26 @@ Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, Huan Guo, William Reinhardt, 
       
       <guid>https://xyz.cct.lsu.edu/about/</guid>
       <description>This is a collection of point clouds from photogrammetry and laser scanning recording the cultural heritage of landscapes. The team from Louisiana State University&amp;rsquo;s College of Art and Design includes Prof. Brendan Harmon, Prof. Hye Yeon Nam, Prof. Nicholas Serrano, and Prof. William Ma. This research was supported by the LSU Center for GeoInformatics and funded by the National Park Service&amp;rsquo;s Historic Preservation Fund and the LSU Arts &amp;amp; Humanities Project Support Fund.</description>
+    </item>
+    
+    <item>
+      <title>Print version</title>
+      <link>https://xyz.cct.lsu.edu/print-version/</link>
+      <pubDate>Sat, 29 Jul 2017 22:48:43 +0100</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/print-version/</guid>
+      <description>You don&amp;rsquo;t want to edit this file :-)</description>
+    </item>
+    
+    <item>
+      <title>Hilltop Arboretum</title>
+      <link>https://xyz.cct.lsu.edu/hilltop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/hilltop/</guid>
+      <description>Location: Hilltop Arboretum, Baton Rouge, Louisiana
+Team: Brendan Harmon, Josef Horacek, Dan Cooke, &amp;amp; Matthew Cranney
+A Cajun Prairie Wildflower Meadow was established in 2020 at the LSU Hilltop Arboretum in Baton Rouge, Louisiana. Five fields have been restored as coastal tallgrass prairie, a highly endangered ecosystem of which only one percent remains intact. The evolution of the newly established meadow was recorded with a series of monthly aerial surveys by a drone with a multispectral sensor.</description>
     </item>
     
   </channel>

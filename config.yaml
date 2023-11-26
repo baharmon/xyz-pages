@@ -3,8 +3,8 @@ languageCode: en-us
 defaultContentLanguage: en
 title: XYZ
 theme: cupper-hugo-theme
-googleAnalytics: UA-123456789-1
-disqusShortname: yourdiscussshortname
+googleAnalytics: G-7721EGQVC9
+#disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
 taxonomies:
@@ -33,6 +33,7 @@ params:
   # navTitleText: Cupper Theme
   logoAlt: Point cloud logo
   customCss:
+    - css/leaflet.css
     - css/academicons.css
     - css/mapskin.css
     - css/fontawesome.css
@@ -42,9 +43,13 @@ params:
     - css/solid.css
     - css/L.Control.Sidebar.css
   customJs:
+    - js/leaflet.js
     - js/L.Control.Sidebar.js
     - js/leaflet-providers.js
     - js/map.js
+#  customjscssraw:
+#    - <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+#    - <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
 menu:
   nav:
@@ -54,15 +59,24 @@ menu:
     - name: About
       url: /about/
       weight: 2
-#    - name: Blog
-#      url: /post/
-#      weight: 3
-#    - name: Tags
-#      url: /tags/
-#      weight: 4
-#    - name: RSS
-#      url: /index.xml
-#      weight: 5
+    - name: Rosedown
+      url: /rosedown/
+      weight: 3
+    - name: Hilltop
+      url: /hilltop/
+      weight: 4
+    - name: Hilltop Lidar
+      url: /hilltop-lidar/
+      weight: 5
+    - name: Avery Island
+      url: /avery-island-buddha/
+      weight: 6
+    - name: Cloud Forest
+      url: /cloud-forest/
+      weight: 7
+    - name: Heritage Trees
+      url: /atlas-of-heritage-trees/
+      weight: 8
 
 markup:
   defaultMarkdownHandler: goldmark

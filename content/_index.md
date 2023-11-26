@@ -3,7 +3,7 @@ date: "2017-06-26T18:27:58+01:00"
 title: "Point Clouds"
 ---
 
-![Rosedown Landscape](landscape.jpg)
+![Rosedown Landscape](rosedown-landscape.jpg)
 
 Welcome to **XYZ Project**,
 a collection of point clouds from laser scanning and photogrammetry
@@ -12,12 +12,10 @@ by Louisiana State University's
 
 {{< expandable label="Rosedown" level="2" >}}
 
-![Rosedown Dining Room](dining-room.jpg)
+![Rosedown Dining Room](rosedown-dining-room.jpg)
 <!-- {{< potree rosedown interior >}} -->
 
-**Rosedown Plantation, St. Francisville, Louisiana**
-
-Rosedown is a two hundred acre site in St. Francisville, Louisiana
+[**Rosedown**](rosedown) is a two hundred acre site in St. Francisville, Louisiana
 with the well preserved remains of an antebellum plantation dating from 1834
 including the main house, ancillary buildings, and formal gardens.
 The point cloud of Rosedown was created
@@ -78,11 +76,10 @@ turn on or off point cloud layers.
 
 {{< expandable label="Hilltop" level="2" >}}
 
-![Hilltop Arboretum](transect-biomass-2020.png)
+![Hilltop Arboretum](hilltop-1.jpg)
 <!-- {{< potree hilltop meadow >}} -->
 
-**Hilltop Arboretum, Baton Rouge, Louisiana**
-
+[**Hilltop Arboretum**](hilltop) &nbsp;
 A Cajun Prairie Wildflower Meadow was established in 2020 at the
 [LSU Hilltop Arboretum](https://www.lsu.edu/hilltop/)
 in Baton Rouge, Louisiana.
@@ -111,6 +108,7 @@ with [Potree](http://potree.org/)
 by expanding the point cloud viewer's menu,
 expanding the scene tab, and
 turning on or off point cloud layers.
+
 
 {{<i class="fas fa-braille">}} [Arboretum](https://xyz.cct.lsu.edu/data/hilltop/arboretum.html "Point Cloud Viewer for Hilltop Arboretum")
 
@@ -146,13 +144,12 @@ turning on or off point cloud layers.
 
 {{< /expandable >}}
 
-{{< expandable label="Avery Island" level="2" >}}
+{{< expandable label="Avery Island Buddha" level="2" >}}
 
 ![Avery Island Buddha](buddha.png)
 <!-- {{< potree averyisland buddha >}} -->
 
-**Jungle Gardens, Avery Island, Louisiana**
-
+[**Avery Island Buddha**](avery-island-buddha) &nbsp;
 A laser scan of the Buddha
 in the Jungle Gardens on Avery Island in Louisiana
 by [Brendan Harmon](https://baharmon.github.io/) and
@@ -169,7 +166,8 @@ The point cloud is licensed [{{<i class="fab fa-creative-commons-zero">}} Creati
 
 ![Magnolia soulangeana](magnolia-soulangeana-02.png)
 
-**Cloud Forest** is a collection of laser scanned trees and other plants.
+[**Cloud Forest**](cloud-forest)
+is a collection of laser scanned trees and other plants.
 Each plant is available as ``laz``, ``e57``, ``pcd``, ``xyz``, and ``3dm`` format point clouds.
 The project lead is [Brendan Harmon](https://baharmon.github.io/).
 The project team includes Javier Zamora, Huan Guo, Jacob Contreras, and Ryan Antoon.
@@ -194,9 +192,9 @@ public domain dedication.
 
 {{< expandable label="Atlas of Heritage Trees" level="2" >}}
 
-![Monarch of the Swamp](big-cypress.jpg)
+![Big Cypress](big-cypress.jpg)
 
-**The Atlas of Heritage Trees**
+[**The Atlas of Heritage Trees**](atlas-of-heritage-trees)
 is an archive of ancient trees
 of exceptional historical, cultural, and ecological significance.
 The trees, captured using terrestrial laser scanning and drone lidar,
@@ -225,7 +223,7 @@ public domain dedication.
 
 {{< /expandable >}}
 
-{{< map >}}
+<!--{{< map >}}-->
 
 <!--
 {{<i class="ai ai-zenodo ai-3x">}}

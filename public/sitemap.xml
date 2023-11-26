@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xyz.cct.lsu.edu/atlas-of-heritage-trees/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xyz.cct.lsu.edu/avery-island-buddha/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xyz.cct.lsu.edu/cloud-forest/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xyz.cct.lsu.edu/hilltop-lidar/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xyz.cct.lsu.edu/rosedown/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://xyz.cct.lsu.edu/template/</loc>
+    <lastmod>2023-11-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://xyz.cct.lsu.edu/big-cypress/</loc>
     <lastmod>2023-11-19T10:47:53-06:00</lastmod>
   </url><url>
@@ -32,11 +50,16 @@
     <loc>https://xyz.cct.lsu.edu/about/</loc>
     <lastmod>2023-09-17T11:17:15-05:00</lastmod>
   </url><url>
+    <loc>https://xyz.cct.lsu.edu/print-version/</loc>
+    <lastmod>2017-07-29T22:48:43+01:00</lastmod>
+  </url><url>
     <loc>https://xyz.cct.lsu.edu/</loc>
     <lastmod>2023-11-19T11:58:50-06:00</lastmod>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/post/</loc>
     <lastmod>2022-01-06T19:02:24-06:00</lastmod>
+  </url><url>
+    <loc>https://xyz.cct.lsu.edu/hilltop/</loc>
   </url><url>
     <loc>https://xyz.cct.lsu.edu/tags/</loc>
   </url>

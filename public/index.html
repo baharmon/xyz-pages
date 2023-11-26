@@ -54,13 +54,12 @@
   <link rel="stylesheet" type="text/css" href="/css/styles.css">
 
   
- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-     crossorigin=""/>
+
+<link rel="stylesheet" href="css/leaflet.css" />
+<script src="js/leaflet.js"></script>
+
 <link rel="stylesheet" href="css/L.Control.Sidebar.css">
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-     crossorigin=""></script>
+
 <script type="text/javascript" src="https://stamen-maps.a.ssl.fastly.net/js/tile.stamen.js"></script>
 <script src="js/leaflet-providers.js"></script>
 <script src="js/L.Control.Sidebar.js"></script>
@@ -68,6 +67,8 @@
 
 
 
+  
+    <link rel="stylesheet" type="text/css" href="/css/leaflet.css">
   
     <link rel="stylesheet" type="text/css" href="/css/academicons.css">
   
@@ -93,6 +94,14 @@
   <title>XYZ</title>
 </head>
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7721EGQVC9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7721EGQVC9');
+</script>
   <body>
     <a href="#main">skip to content</a>
     <noscript>
@@ -250,6 +259,84 @@
       </a>
     </li>
   
+    <li class="pattern">
+      
+      
+      
+      
+      <a href="/rosedown/" >
+        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+          <use xlink:href="#bookmark"></use>
+        </svg>
+        <span class="text">Rosedown</span>
+      </a>
+    </li>
+  
+    <li class="pattern">
+      
+      
+      
+      
+      <a href="/hilltop/" >
+        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+          <use xlink:href="#bookmark"></use>
+        </svg>
+        <span class="text">Hilltop</span>
+      </a>
+    </li>
+  
+    <li class="pattern">
+      
+      
+      
+      
+      <a href="/hilltop-lidar/" >
+        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+          <use xlink:href="#bookmark"></use>
+        </svg>
+        <span class="text">Hilltop Lidar</span>
+      </a>
+    </li>
+  
+    <li class="pattern">
+      
+      
+      
+      
+      <a href="/avery-island-buddha/" >
+        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+          <use xlink:href="#bookmark"></use>
+        </svg>
+        <span class="text">Avery Island</span>
+      </a>
+    </li>
+  
+    <li class="pattern">
+      
+      
+      
+      
+      <a href="/cloud-forest/" >
+        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+          <use xlink:href="#bookmark"></use>
+        </svg>
+        <span class="text">Cloud Forest</span>
+      </a>
+    </li>
+  
+    <li class="pattern">
+      
+      
+      
+      
+      <a href="/atlas-of-heritage-trees/" >
+        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
+          <use xlink:href="#bookmark"></use>
+        </svg>
+        <span class="text">Heritage Trees</span>
+      </a>
+    </li>
+  
   </ul>
 </nav>
     
@@ -261,7 +348,7 @@
           
   <main id="main">
     <h1>Point Clouds</h1>
-    <p><img src="landscape.jpg" alt="Rosedown Landscape"></p>
+    <p><img src="rosedown-landscape.jpg" alt="Rosedown Landscape"></p>
 <p>Welcome to <strong>XYZ Project</strong>,
 a collection of point clouds from laser scanning and photogrammetry
 by Louisiana State University&rsquo;s
@@ -275,7 +362,7 @@ by Louisiana State University&rsquo;s
     
     
     
-    <button aria-expanded="false" data-expands="js-expandable-504e6c1f20377cb9e60259d7ac4e12a4">
+    <button aria-expanded="false" data-expands="js-expandable-e1fa76298f07992e381689c2fa055af5">
       <span class="expandable-label">Rosedown</span>
       <svg aria-hidden="true" focusable="false" viewBox="0 0 70.866142 70.866141">
         <g transform="translate(0 -981.5)">
@@ -287,14 +374,13 @@ by Louisiana State University&rsquo;s
   
     </h2>
   
-  <div id="js-expandable-504e6c1f20377cb9e60259d7ac4e12a4" hidden>
-    <p><img src="dining-room.jpg" alt="Rosedown Dining Room"></p>
+  <div id="js-expandable-e1fa76298f07992e381689c2fa055af5" hidden>
+    <p><img src="rosedown-dining-room.jpg" alt="Rosedown Dining Room"></p>
 <!-- <div class="embed potree viewer" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://xyz.cct.lsu.edu/data/rosedown/interior.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Potree Viewer" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
  -->
-<p><strong>Rosedown Plantation, St. Francisville, Louisiana</strong></p>
-<p>Rosedown is a two hundred acre site in St. Francisville, Louisiana
+<p><a href="rosedown"><strong>Rosedown</strong></a> is a two hundred acre site in St. Francisville, Louisiana
 with the well preserved remains of an antebellum plantation dating from 1834
 including the main house, ancillary buildings, and formal gardens.
 The point cloud of Rosedown was created
@@ -371,7 +457,7 @@ marthas-screen.laz</a></p>
     
     
     
-    <button aria-expanded="false" data-expands="js-expandable-dcb9cd33137fe7503b38e77b5fb505f9">
+    <button aria-expanded="false" data-expands="js-expandable-1adefa3a02485fb2998d1f3cf1f5889d">
       <span class="expandable-label">Hilltop</span>
       <svg aria-hidden="true" focusable="false" viewBox="0 0 70.866142 70.866141">
         <g transform="translate(0 -981.5)">
@@ -383,14 +469,14 @@ marthas-screen.laz</a></p>
   
     </h2>
   
-  <div id="js-expandable-dcb9cd33137fe7503b38e77b5fb505f9" hidden>
-    <p><img src="transect-biomass-2020.png" alt="Hilltop Arboretum"></p>
+  <div id="js-expandable-1adefa3a02485fb2998d1f3cf1f5889d" hidden>
+    <p><img src="hilltop-1.jpg" alt="Hilltop Arboretum"></p>
 <!-- <div class="embed potree viewer" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://xyz.cct.lsu.edu/data/hilltop/meadow.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Potree Viewer" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
  -->
-<p><strong>Hilltop Arboretum, Baton Rouge, Louisiana</strong></p>
-<p>A Cajun Prairie Wildflower Meadow was established in 2020 at the
+<p><a href="hilltop"><strong>Hilltop Arboretum</strong></a>  
+A Cajun Prairie Wildflower Meadow was established in 2020 at the
 <a href="https://www.lsu.edu/hilltop/">LSU Hilltop Arboretum</a>
 in Baton Rouge, Louisiana.
 Five fields have been restored as coastal tallgrass prairie,
@@ -461,8 +547,8 @@ carbon-2020.laz</a></p>
     
     
     
-    <button aria-expanded="false" data-expands="js-expandable-3f46efe982df8c62e8a62d05211116a4">
-      <span class="expandable-label">Avery Island</span>
+    <button aria-expanded="false" data-expands="js-expandable-98166c759e953622e0562d423e7d7220">
+      <span class="expandable-label">Avery Island Buddha</span>
       <svg aria-hidden="true" focusable="false" viewBox="0 0 70.866142 70.866141">
         <g transform="translate(0 -981.5)">
           <rect style="stroke-width:0;fill:currentColor" ry="5" height="60" width="9.8985" y="987.36" x="30.051" class="up-strut" />
@@ -473,14 +559,14 @@ carbon-2020.laz</a></p>
   
     </h2>
   
-  <div id="js-expandable-3f46efe982df8c62e8a62d05211116a4" hidden>
+  <div id="js-expandable-98166c759e953622e0562d423e7d7220" hidden>
     <p><img src="buddha.png" alt="Avery Island Buddha"></p>
 <!-- <div class="embed potree viewer" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://xyz.cct.lsu.edu/data/averyisland/buddha.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Potree Viewer" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
  -->
-<p><strong>Jungle Gardens, Avery Island, Louisiana</strong></p>
-<p>A laser scan of the Buddha
+<p><a href="avery-island-buddha"><strong>Avery Island Buddha</strong></a>  
+A laser scan of the Buddha
 in the Jungle Gardens on Avery Island in Louisiana
 by <a href="https://baharmon.github.io/">Brendan Harmon</a> and
 <a href="https://design.lsu.edu/faculty/william-ma/">William Ma</a>.
@@ -503,7 +589,7 @@ buddha.laz</a></p>
     
     
     
-    <button aria-expanded="false" data-expands="js-expandable-be44618d30132497956c3a8bf663a2ac">
+    <button aria-expanded="false" data-expands="js-expandable-ac67d554c017820acffc87a223c42d18">
       <span class="expandable-label">Cloud Forest</span>
       <svg aria-hidden="true" focusable="false" viewBox="0 0 70.866142 70.866141">
         <g transform="translate(0 -981.5)">
@@ -515,9 +601,10 @@ buddha.laz</a></p>
   
     </h2>
   
-  <div id="js-expandable-be44618d30132497956c3a8bf663a2ac" hidden>
+  <div id="js-expandable-ac67d554c017820acffc87a223c42d18" hidden>
     <p><img src="magnolia-soulangeana-02.png" alt="Magnolia soulangeana"></p>
-<p><strong>Cloud Forest</strong> is a collection of laser scanned trees and other plants.
+<p><a href="cloud-forest"><strong>Cloud Forest</strong></a>
+is a collection of laser scanned trees and other plants.
 Each plant is available as <code>laz</code>, <code>e57</code>, <code>pcd</code>, <code>xyz</code>, and <code>3dm</code> format point clouds.
 The project lead is <a href="https://baharmon.github.io/">Brendan Harmon</a>.
 The project team includes Javier Zamora, Huan Guo, Jacob Contreras, and Ryan Antoon.
@@ -552,7 +639,7 @@ Quercus alba I</a></p>
     
     
     
-    <button aria-expanded="false" data-expands="js-expandable-ec2c3eeddc2256f30de9a249dbe608d6">
+    <button aria-expanded="false" data-expands="js-expandable-03ac82ba8ac582ee4e99c1ee20a66f3f">
       <span class="expandable-label">Atlas of Heritage Trees</span>
       <svg aria-hidden="true" focusable="false" viewBox="0 0 70.866142 70.866141">
         <g transform="translate(0 -981.5)">
@@ -564,9 +651,9 @@ Quercus alba I</a></p>
   
     </h2>
   
-  <div id="js-expandable-ec2c3eeddc2256f30de9a249dbe608d6" hidden>
-    <p><img src="big-cypress.jpg" alt="Monarch of the Swamp"></p>
-<p><strong>The Atlas of Heritage Trees</strong>
+  <div id="js-expandable-03ac82ba8ac582ee4e99c1ee20a66f3f" hidden>
+    <p><img src="big-cypress.jpg" alt="Big Cypress"></p>
+<p><a href="atlas-of-heritage-trees"><strong>The Atlas of Heritage Trees</strong></a>
 is an archive of ancient trees
 of exceptional historical, cultural, and ecological significance.
 The trees, captured using terrestrial laser scanning and drone lidar,
@@ -598,9 +685,9 @@ Duelling Oak</a></p>
   </div>
 </div>
 
-<div id="map" style="position: relative; padding-bottom: 56.25%; height: 500px"></div>
+<!--<div id="map" style="position: relative; padding-bottom: 56.25%; height: 500px"></div>
 <script src="js/map.js"></script>
-
+-->
 <!--
 <i class="ai ai-zenodo ai-3x"></i>
 
@@ -658,6 +745,8 @@ Duelling Oak</a></p>
 
 
 
+  <script src="/js/leaflet.js"></script>
+
   <script src="/js/L.Control.Sidebar.js"></script>
 
   <script src="/js/leaflet-providers.js"></script>
@@ -674,7 +763,7 @@ Duelling Oak</a></p>
   
   <script>
   window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-  ga('create', 'UA-123456789-1', 'auto');
+  ga('create', 'G-7721EGQVC9', 'auto');
   ga('send', 'pageview');
   </script>
   <script async src='https://www.google-analytics.com/analytics.js'></script>
