@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Point Clouds on XYZ</title>
+    <title>Point Cloud Repository on XYZ</title>
     <link>https://xyz.cct.lsu.edu/</link>
-    <description>Recent content in Point Clouds on XYZ</description>
+    <description>Recent content in Point Cloud Repository on XYZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://xyz.cct.lsu.edu/index.xml" rel="self" type="application/rss+xml" />
@@ -38,43 +38,6 @@ A laser scan of the Buddha in the Jungle Gardens on Avery Island in Louisiana by
       <description>Cloud Forest is a collection of laser scanned trees and other plants. Each plant is available as laz, e57, pcd, xyz, and 3dm format point clouds. The project lead is Brendan Harmon. The project team includes Javier Zamora, Huan Guo, Jacob Contreras, and Ryan Antoon. The point clouds are released under the Creative Commons Zero public domain dedication. 10.5281/zenodo.8194067
  Laurus nobilis I
 Magnolia soulangeana I</description>
-    </item>
-    
-    <item>
-      <title>Hilltop Arboretum Lidar</title>
-      <link>https://xyz.cct.lsu.edu/hilltop-lidar/</link>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://xyz.cct.lsu.edu/hilltop-lidar/</guid>
-      <description>Location: Hilltop Arboretum, Baton Rouge, Louisiana
-Team: Brendan Harmon
-The surveys were conducted with a DJI Matrice 300 RTK with an L1 lidar sensor. This project was supported by the LSU Center for GeoInformatics. The datasets are licensed Creative Commons Zero.
-Point Cloud Time Series Viewers
-Explore the time series of point clouds with Potree by expanding the point cloud viewer&amp;rsquo;s menu, expanding the scene tab, and turning on or off point cloud layers.</description>
-    </item>
-    
-    <item>
-      <title>Rosedown</title>
-      <link>https://xyz.cct.lsu.edu/rosedown/</link>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://xyz.cct.lsu.edu/rosedown/</guid>
-      <description>Location: Rosedown Plantation, St. Francisville, Louisiana
-Team: Brendan Harmon, Nicholas Serrano, Josef Horacek, Sasha Matthieu, William Conrad, Javier Zamora, Matthew Cranney, &amp;amp; Ming Li
-Funding: National Park Service&amp;rsquo;s Historic Preservation Fund
-Rosedown is a two hundred acre site in St. Francisville, Louisiana with the well preserved remains of an antebellum plantation dating from 1834 including the main house, ancillary buildings, and formal gardens. The point cloud of Rosedown was created using terrestrial laser scanning with a Faro Focus and drone photogrammetry with a DJI Matrice 600 Pro with Zenmuse X5 camera.</description>
-    </item>
-    
-    <item>
-      <title>Title</title>
-      <link>https://xyz.cct.lsu.edu/template/</link>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://xyz.cct.lsu.edu/template/</guid>
-      <description>Subtitle Location:
-Team: Brendan Harmon, Hye Yeon Nam, etc.
- Viewer
-Point Clouds</description>
     </item>
     
     <item>
@@ -224,9 +187,47 @@ Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, Huan Guo, William Reinhardt, 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xyz.cct.lsu.edu/hilltop/</guid>
-      <description>Location: Hilltop Arboretum, Baton Rouge, Louisiana
+      <description>Hilltop Photogrammetry Location: Hilltop Arboretum, Baton Rouge, Louisiana
 Team: Brendan Harmon, Josef Horacek, Dan Cooke, &amp;amp; Matthew Cranney
-A Cajun Prairie Wildflower Meadow was established in 2020 at the LSU Hilltop Arboretum in Baton Rouge, Louisiana. Five fields have been restored as coastal tallgrass prairie, a highly endangered ecosystem of which only one percent remains intact. The evolution of the newly established meadow was recorded with a series of monthly aerial surveys by a drone with a multispectral sensor.</description>
+Equipment FireFLY Pro 6 with MicaSense RedEdge-M sensor
+A Cajun Prairie Wildflower Meadow was established in 2020 at the LSU Hilltop Arboretum in Baton Rouge, Louisiana. Five fields have been restored as coastal tallgrass prairie, a highly endangered ecosystem of which only one percent remains intact. From 2020 to 2021, the evolution of the newly established meadow was recorded with a series of monthly aerial surveys by a drone with a multispectral sensor.</description>
+    </item>
+    
+    <item>
+      <title>Hilltop Arboretum Lidar</title>
+      <link>https://xyz.cct.lsu.edu/hilltop-lidar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/hilltop-lidar/</guid>
+      <description>Location: Hilltop Arboretum, Baton Rouge, Louisiana
+Team: Brendan Harmon
+Equipment DJI Matrice 300 RTK with L1 Lidar
+From 2022 onwards the meadow is being surveyed annually using a drone with lidar. The ongoing surveys are conducted with a DJI Matrice 300 RTK drone with an L1 lidar sensor. This project is supported by the LSU Center for GeoInformatics. The datasets are licensed Creative Commons Zero.
+Lidar 2022 + hilltop-2022-12-07.</description>
+    </item>
+    
+    <item>
+      <title>Rosedown</title>
+      <link>https://xyz.cct.lsu.edu/rosedown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/rosedown/</guid>
+      <description>Location: Rosedown Plantation, St. Francisville, Louisiana
+Team: Brendan Harmon, Nicholas Serrano, Josef Horacek, Sasha Matthieu, William Conrad, Javier Zamora, Matthew Cranney, &amp;amp; Ming Li
+Funding: National Park Service&amp;rsquo;s Historic Preservation Fund
+Rosedown is a two hundred acre site in St. Francisville, Louisiana with the well preserved remains of an antebellum plantation dating from 1834 including the main house, ancillary buildings, and formal gardens. The point cloud of Rosedown was created using terrestrial laser scanning with a Faro Focus and drone photogrammetry with a DJI Matrice 600 Pro with Zenmuse X5 camera.</description>
+    </item>
+    
+    <item>
+      <title>Title</title>
+      <link>https://xyz.cct.lsu.edu/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/template/</guid>
+      <description>Subtitle Location:
+Team: Brendan Harmon, Hye Yeon Nam, etc.
+ Viewer
+Point Clouds</description>
     </item>
     
   </channel>

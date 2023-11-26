@@ -4,7 +4,6 @@ defaultContentLanguage: en
 title: XYZ
 theme: cupper-hugo-theme
 googleAnalytics: G-7721EGQVC9
-#disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
 taxonomies:
@@ -17,10 +16,9 @@ imaging:
   quality: 99
 
 params:
-  description: Point Cloud Repository
+  description:
   homeMetaContent: Point Cloud Repository
   footer: <i class="fab fa-creative-commons"></i> [Brendan Harmon](https://baharmon.github.io/)
-  # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: baharmon
   katex: true
@@ -47,9 +45,6 @@ params:
     - js/L.Control.Sidebar.js
     - js/leaflet-providers.js
     - js/map.js
-#  customjscssraw:
-#    - <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-#    - <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
 menu:
   nav:

@@ -1,11 +1,11 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "Point Clouds"
+title: "Point Cloud Repository"
 ---
 
 ![Rosedown Landscape](rosedown-landscape.jpg)
 
-Welcome to **XYZ Project**,
+Welcome to the **XYZ Point Cloud Repository**,
 a collection of point clouds from laser scanning and photogrammetry
 by Louisiana State University's
 [College of Art and Design](https://design.lsu.edu/).
@@ -52,34 +52,42 @@ turn on or off point cloud layers.
 
 **Point Cloud Datasets**
 
-[{{<i class="fas fa-braille">}} House](https://xyz.cct.lsu.edu/data/rosedown/house.html "Point Cloud Viewer for Rosedown House") + [{{<i class="ms ms-database">}} house.laz](https://xyz.cct.lsu.edu/data/rosedown/house.laz "LAZ Point Cloud Dataset for Rosedown House")
+[{{<i class="fas fa-braille">}} House](https://xyz.cct.lsu.edu/data/rosedown/house.html "Point Cloud Viewer for Rosedown House") + [{{<i class="ms ms-cloud">}} house.laz](https://xyz.cct.lsu.edu/data/rosedown/house.laz "LAZ Point Cloud Dataset for Rosedown House")
 
-[{{<i class="fas fa-braille">}} Interior](https://xyz.cct.lsu.edu/data/rosedown/interior.html "Point Cloud Viewer for Rosedown Interior") + [{{<i class="ms ms-database">}} interior.laz](https://xyz.cct.lsu.edu/data/rosedown/interior.laz "LAZ Point Cloud Dataset for Rosedown Interior")
+[{{<i class="fas fa-braille">}} Interior](https://xyz.cct.lsu.edu/data/rosedown/interior.html "Point Cloud Viewer for Rosedown Interior") + [{{<i class="ms ms-cloud">}} interior.laz](https://xyz.cct.lsu.edu/data/rosedown/interior.laz "LAZ Point Cloud Dataset for Rosedown Interior")
 
-[{{<i class="fas fa-braille">}} Landscape](https://xyz.cct.lsu.edu/data/rosedown/landscape.html "Point Cloud Viewer for Rosedown Landscape")  + [{{<i class="ms ms-database">}} landscape.laz](https://xyz.cct.lsu.edu/data/rosedown/landscape.laz "LAZ Point Cloud Dataset for Rosedown Landscape")
+[{{<i class="fas fa-braille">}} Landscape](https://xyz.cct.lsu.edu/data/rosedown/landscape.html "Point Cloud Viewer for Rosedown Landscape")  + [{{<i class="ms ms-cloud">}} landscape.laz](https://xyz.cct.lsu.edu/data/rosedown/landscape.laz "LAZ Point Cloud Dataset for Rosedown Landscape")
 
-[{{<i class="fas fa-braille">}} Allée](https://xyz.cct.lsu.edu/data/rosedown/allee.html "Point Cloud Viewer for Rosedown Allée") + [{{<i class="ms ms-database">}} allee.laz](https://xyz.cct.lsu.edu/data/rosedown/allee.laz "LAZ Point Cloud Dataset for Rosedown Allée")
+[{{<i class="fas fa-braille">}} Allée](https://xyz.cct.lsu.edu/data/rosedown/allee.html "Point Cloud Viewer for Rosedown Allée") + [{{<i class="ms ms-cloud">}} allee.laz](https://xyz.cct.lsu.edu/data/rosedown/allee.laz "LAZ Point Cloud Dataset for Rosedown Allée")
 
-[{{<i class="fas fa-braille">}} Rockery](https://xyz.cct.lsu.edu/data/rosedown/rockery.html "Point Cloud Viewer for Rosedown Rockery") + [{{<i class="ms ms-database">}} rockery.laz](https://xyz.cct.lsu.edu/data/rosedown/rockery.laz "LAZ Point Cloud Dataset for Rosedown Rockery")
+[{{<i class="fas fa-braille">}} Rockery](https://xyz.cct.lsu.edu/data/rosedown/rockery.html "Point Cloud Viewer for Rosedown Rockery") + [{{<i class="ms ms-cloud">}} rockery.laz](https://xyz.cct.lsu.edu/data/rosedown/rockery.laz "LAZ Point Cloud Dataset for Rosedown Rockery")
 
-[{{<i class="fas fa-braille">}} Formal Garden](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.html "Point Cloud Viewer for Rosedown Formal Garden")  + [{{<i class="ms ms-database">}} formal-garden.laz](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.laz "LAZ Point Cloud Dataset for Rosedown Formal Garden")
+[{{<i class="fas fa-braille">}} Formal Garden](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.html "Point Cloud Viewer for Rosedown Formal Garden")  + [{{<i class="ms ms-cloud">}} formal-garden.laz](https://xyz.cct.lsu.edu/data/rosedown/formal-garden.laz "LAZ Point Cloud Dataset for Rosedown Formal Garden")
 
-[{{<i class="fas fa-braille">}} Gazebo](https://xyz.cct.lsu.edu/data/rosedown/gazebo.html "Point Cloud Viewer for Rosedown Gazebo") + [{{<i class="ms ms-database">}} gazebo.laz](https://xyz.cct.lsu.edu/data/rosedown/gazebo.laz "LAZ Point Cloud Dataset for Rosedown Gazebo")
+[{{<i class="fas fa-braille">}} Gazebo](https://xyz.cct.lsu.edu/data/rosedown/gazebo.html "Point Cloud Viewer for Rosedown Gazebo") + [{{<i class="ms ms-cloud">}} gazebo.laz](https://xyz.cct.lsu.edu/data/rosedown/gazebo.laz "LAZ Point Cloud Dataset for Rosedown Gazebo")
 
-[{{<i class="fas fa-braille">}} Milk House](https://xyz.cct.lsu.edu/data/rosedown/milk-house.html "Point Cloud Viewer for Rosedown Milk House") + [{{<i class="ms ms-database">}} milk-house.laz](https://xyz.cct.lsu.edu/data/rosedown/milk-house.laz "LAZ Point Cloud Dataset for Rosedown Milk House")
+[{{<i class="fas fa-braille">}} Milk House](https://xyz.cct.lsu.edu/data/rosedown/milk-house.html "Point Cloud Viewer for Rosedown Milk House") + [{{<i class="ms ms-cloud">}} milk-house.laz](https://xyz.cct.lsu.edu/data/rosedown/milk-house.laz "LAZ Point Cloud Dataset for Rosedown Milk House")
 
-[{{<i class="fas fa-braille">}} Dining Room](https://xyz.cct.lsu.edu/data/rosedown/dining-room.html "Point Cloud Viewer for Rosedown Dining Room") + [{{<i class="ms ms-database">}} dining-room.laz](https://xyz.cct.lsu.edu/data/rosedown/dining-room.laz "LAZ Point Cloud Dataset for Rosedown Dining Room")
+[{{<i class="fas fa-braille">}} Dining Room](https://xyz.cct.lsu.edu/data/rosedown/dining-room.html "Point Cloud Viewer for Rosedown Dining Room") + [{{<i class="ms ms-cloud">}} dining-room.laz](https://xyz.cct.lsu.edu/data/rosedown/dining-room.laz "LAZ Point Cloud Dataset for Rosedown Dining Room")
 
-[{{<i class="fas fa-braille">}} Martha's Screen](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.html "Point Cloud Viewer for Martha's Screen") + [{{<i class="ms ms-database">}} marthas-screen.laz](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.laz "LAZ Point Cloud Dataset for Martha's Screen at Rosedown")
+[{{<i class="fas fa-braille">}} Martha's Screen](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.html "Point Cloud Viewer for Martha's Screen") + [{{<i class="ms ms-cloud">}} marthas-screen.laz](https://xyz.cct.lsu.edu/data/rosedown/marthas-screen.laz "LAZ Point Cloud Dataset for Martha's Screen at Rosedown")
 
 {{< /expandable >}}
 
-{{< expandable label="Hilltop" level="2" >}}
+{{< expandable label="Hilltop Photogrammetry" level="2" >}}
 
-![Hilltop Arboretum](hilltop-1.jpg)
-<!-- {{< potree hilltop meadow >}} -->
+![Hilltop Arboretum](hilltop-transect-biomass-2020.png)
 
-[**Hilltop Arboretum**](hilltop) &nbsp;
+**Location:** Hilltop Arboretum, Baton Rouge, Louisiana
+
+**Team:** 
+[Brendan Harmon](https://baharmon.github.io/),
+Josef Horacek, Dan Cooke, & Matthew Cranney
+
+**Equipment**
+FireFLY Pro 6 with MicaSense RedEdge-M sensor
+
+[**Hilltop Photogrammetry**](hilltop) &nbsp;
 A Cajun Prairie Wildflower Meadow was established in 2020 at the
 [LSU Hilltop Arboretum](https://www.lsu.edu/hilltop/)
 in Baton Rouge, Louisiana.
@@ -116,31 +124,59 @@ turning on or off point cloud layers.
 
 **Point Cloud Datasets**
 
-[{{<i class="ms ms-database">}} hilltop-2020-03-19.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-03-19.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, March 19, 2020")
+[{{<i class="ms ms-cloud">}} hilltop-2020-03-19.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-03-19.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, March 19, 2020")
 
-[{{<i class="ms ms-database">}} hilltop-2020-04-25.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-04-25.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, April 25, 2020")
+[{{<i class="ms ms-cloud">}} hilltop-2020-04-25.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-04-25.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, April 25, 2020")
 
-[{{<i class="ms ms-database">}} hilltop-2020-06-01.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-06-01.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, June 1, 2020")
+[{{<i class="ms ms-cloud">}} hilltop-2020-06-01.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-06-01.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, June 1, 2020")
 
-[{{<i class="ms ms-database">}} hilltop-2020-06-30.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-06-30.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, June 30, 2020")
+[{{<i class="ms ms-cloud">}} hilltop-2020-06-30.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-06-30.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, June 30, 2020")
 
-[{{<i class="ms ms-database">}} hilltop-2020-08-03.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-08-03.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, August 3, 2020")
+[{{<i class="ms ms-cloud">}} hilltop-2020-08-03.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-08-03.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, August 3, 2020")
 
-[{{<i class="ms ms-database">}} hilltop-2020-08-29.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-08-29.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, August 29, 2020")
+[{{<i class="ms ms-cloud">}} hilltop-2020-08-29.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-08-29.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, August 29, 2020")
 
-[{{<i class="ms ms-database">}} hilltop-2020-09-27.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-09-27.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, September 27, 2020")
+[{{<i class="ms ms-cloud">}} hilltop-2020-09-27.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-09-27.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, September 27, 2020")
 
-[{{<i class="ms ms-database">}} hilltop-2020-10-25.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-10-25.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, October 25, 2020")
+[{{<i class="ms ms-cloud">}} hilltop-2020-10-25.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2020-10-25.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, October 25, 2020")
 
-[{{<i class="ms ms-database">}} hilltop-2021-01-24.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2021-01-24.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, January 24, 2021")
+[{{<i class="ms ms-cloud">}} hilltop-2021-01-24.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2021-01-24.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, January 24, 2021")
 
-[{{<i class="ms ms-database">}} hilltop-2022-12-07.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2022-12-07.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, December 7, 2022")
+[{{<i class="ms ms-cloud">}} biomass-2020.laz](https://xyz.cct.lsu.edu/data/hilltop/biomass-2020.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, Net Annual Biomass 2020")
 
-[{{<i class="ms ms-database">}} hilltop-2023-06-18.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2023-06-18.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, June 18, 2023")
+[{{<i class="ms ms-cloud">}} carbon-2020.laz](https://xyz.cct.lsu.edu/data/hilltop/carbon-2020.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, Net Annual Carbon 2020")
 
-[{{<i class="ms ms-database">}} biomass-2020.laz](https://xyz.cct.lsu.edu/data/hilltop/biomass-2020.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, Net Annual Biomass 2020")
+{{< /expandable >}}
 
-[{{<i class="ms ms-database">}} carbon-2020.laz](https://xyz.cct.lsu.edu/data/hilltop/carbon-2020.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, Net Annual Carbon 2020")
+{{< expandable label="Hilltop Lidar" level="2" >}}
+
+![Hilltop Arboretum](hilltop-1.jpg)
+
+**Location:** Hilltop Arboretum, Baton Rouge, Louisiana
+
+**Team:** 
+[Brendan Harmon](https://baharmon.github.io/)
+
+**Equipment**
+DJI Matrice 300 RTK with L1 Lidar
+
+[**Hilltop Lidar**](hilltop-lidar) &nbsp;
+From 2022 onwards
+the meadow is being surveyed annually
+using a drone with lidar.
+The ongoing surveys are conducted with a
+DJI Matrice 300 RTK drone with an L1 lidar sensor.
+This project is supported by the
+[LSU Center for GeoInformatics](http://c4g.lsu.edu/).
+The datasets are licensed [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/).
+
+{{<i class="fas fa-braille">}} [Lidar 2022](https://xyz.cct.lsu.edu/data/hilltop/lidar-2022.html "Point Cloud Viewer for Hilltop Arboretum Lidar 2022")
++
+[{{<i class="ms ms-cloud">}} hilltop-2022-12-07.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2022-12-07.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, December 7, 2022")
+
+{{<i class="fas fa-braille">}} [Lidar 2023](https://xyz.cct.lsu.edu/data/hilltop/lidar-2023.html "Point Cloud Viewer for Hilltop Arboretum Lidar 2023")
++
+[{{<i class="ms ms-cloud">}} hilltop-2023-06-18.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2023-06-18.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, June 18, 2023")
 
 {{< /expandable >}}
 
@@ -158,7 +194,7 @@ The point cloud is licensed [{{<i class="fab fa-creative-commons-zero">}} Creati
 
 **Point Cloud Viewer & Dataset**
 
-[{{<i class="fas fa-braille">}} Buddha](https://xyz.cct.lsu.edu/data/averyisland/buddha.html "Point Cloud Viewer for Avery Island Buddha") + [{{<i class="ms ms-database">}} buddha.laz](https://xyz.cct.lsu.edu/data/averyisland/buddha.laz "LAZ Point Cloud of Avery Island Buddha")
+[{{<i class="fas fa-braille">}} Buddha](https://xyz.cct.lsu.edu/data/averyisland/buddha.html "Point Cloud Viewer for Avery Island Buddha") + [{{<i class="ms ms-cloud">}} buddha.laz](https://xyz.cct.lsu.edu/data/averyisland/buddha.laz "LAZ Point Cloud of Avery Island Buddha")
 
 {{< /expandable >}}
 
@@ -176,17 +212,17 @@ The point clouds are released under the
 public domain dedication.
 [{{<i class="ai ai-doi">}} 10.5281/zenodo.8194067](https://doi.org/10.5281/zenodo.8194067)
 
-[{{<i class="ms ms-database">}} Laurus nobilis I](laurus-nobilis-01)
+[{{<i class="ms ms-cloud">}} Laurus nobilis I](laurus-nobilis-01)
 
-[{{<i class="ms ms-database">}} Magnolia soulangeana I](magnolia-soulangeana-01)
+[{{<i class="ms ms-cloud">}} Magnolia soulangeana I](magnolia-soulangeana-01)
 
-[{{<i class="ms ms-database">}} Magnolia soulangeana II](magnolia-soulangeana-02)
+[{{<i class="ms ms-cloud">}} Magnolia soulangeana II](magnolia-soulangeana-02)
 
-[{{<i class="ms ms-database">}} Morella californica I](morella-californica-01)
+[{{<i class="ms ms-cloud">}} Morella californica I](morella-californica-01)
 
-[{{<i class="ms ms-database">}} Polystichum acrostichoides I](polystichum-acrostichoides-01)
+[{{<i class="ms ms-cloud">}} Polystichum acrostichoides I](polystichum-acrostichoides-01)
 
-[{{<i class="ms ms-database">}} Quercus alba I](quercus-alba-01)
+[{{<i class="ms ms-cloud">}} Quercus alba I](quercus-alba-01)
 
 {{< /expandable >}}
 
@@ -215,11 +251,11 @@ The point clouds are released under the
 public domain dedication.
 [{{<i class="ai ai-doi">}} 10.5281/zenodo.8353292](https://zenodo.org/doi/10.5281/zenodo.8353292)
 
-[{{<i class="ms ms-database">}} Big Cypress](big-cypress)
+[{{<i class="ms ms-cloud">}} Big Cypress](big-cypress)
 
-[{{<i class="ms ms-database">}} Monarch of the Swamp](monarch-of-the-swamp)
+[{{<i class="ms ms-cloud">}} Monarch of the Swamp](monarch-of-the-swamp)
 
-[{{<i class="ms ms-database">}} Duelling Oak](duelling-oak)
+[{{<i class="ms ms-cloud">}} Duelling Oak](duelling-oak)
 
 {{< /expandable >}}
 
@@ -229,7 +265,7 @@ public domain dedication.
 {{<i class="ai ai-zenodo ai-3x">}}
 {{<i class="ai ai-doi">}}
 {{<i class="ms ms-grass-gis ms-2x">}}
-{{<i class="ms ms-database">}}
+{{<i class="ms ms-cloud">}}
 {{<i class="ms ms-directory">}}
 {{<i class="fab fa-creative-commons">}}
 {{<i class="fab fa-creative-commons-zero">}}

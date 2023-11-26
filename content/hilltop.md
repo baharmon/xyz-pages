@@ -2,30 +2,37 @@
 title = "Hilltop Arboretum"
 +++
 
+### Hilltop Photogrammetry
+
 **Location:** Hilltop Arboretum, Baton Rouge, Louisiana
 
 **Team:** 
 [Brendan Harmon](https://baharmon.github.io/),
 Josef Horacek, Dan Cooke, & Matthew Cranney
 
+**Equipment**
+FireFLY Pro 6 with MicaSense RedEdge-M sensor
+
 A Cajun Prairie Wildflower Meadow was established in 2020 at the
 [LSU Hilltop Arboretum](https://www.lsu.edu/hilltop/)
 in Baton Rouge, Louisiana.
 Five fields have been restored as coastal tallgrass prairie,
 a highly endangered ecosystem of which only one percent remains intact.
-The evolution of the newly established meadow was recorded
+From 2020 to 2021, 
+the evolution of the newly established meadow was recorded
 with a series of monthly aerial surveys
 by a drone with a multispectral sensor.
 Net annual biomass and carbon
 were computed from the time series of point clouds.
-The team lead for this project was
+<!---->
+The team lead for this project is
 [Brendan Harmon](https://baharmon.github.io/).
-The team included Josef Horacek, Dan Cooke, and Matthew Cranney.
+Contributors include Josef Horacek, Dan Cooke, and Matthew Cranney.
 The surveys were conducted with a
 FireFLY Pro 6 fixed wing drone
 with a MicaSense RedEdge-M sensor
 and 9 permanent ground control points.
-This project was supported by the
+This project is supported by the
 [LSU Center for GeoInformatics](http://c4g.lsu.edu/).
 The datasets are licensed [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
@@ -63,10 +70,13 @@ turning on or off point cloud layers.
 
 [{{<i class="ms ms-database">}} hilltop-2021-01-24.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2021-01-24.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, January 24, 2021")
 
-[{{<i class="ms ms-database">}} hilltop-2022-12-07.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2022-12-07.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, December 7, 2022")
-
-[{{<i class="ms ms-database">}} hilltop-2023-06-18.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2023-06-18.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, June 18, 2023")
-
 [{{<i class="ms ms-database">}} biomass-2020.laz](https://xyz.cct.lsu.edu/data/hilltop/biomass-2020.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, Net Annual Biomass 2020")
 
 [{{<i class="ms ms-database">}} carbon-2020.laz](https://xyz.cct.lsu.edu/data/hilltop/carbon-2020.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, Net Annual Carbon 2020")
+
+
+
+
+
+
+
