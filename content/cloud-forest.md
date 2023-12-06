@@ -17,16 +17,16 @@ public domain dedication.
 
 &nbsp;
 
-[{{<i class="ms ms-cloud">}} Laurus nobilis I](laurus-nobilis-01 "Laurus nobilis")
+[{{<i class="ms ms-cloud">}} Laurus nobilis I](../laurus-nobilis-01 "Laurus nobilis")
 
-[{{<i class="ms ms-cloud">}} Magnolia soulangeana I](magnolia-soulangeana-01 "Magnolia soulangeana")
+[{{<i class="ms ms-cloud">}} Magnolia soulangeana I](../magnolia-soulangeana-01 "Magnolia soulangeana")
 
-[{{<i class="ms ms-cloud">}} Magnolia soulangeana II](magnolia-soulangeana-02 "Magnolia soulangeana")
+[{{<i class="ms ms-cloud">}} Magnolia soulangeana II](../magnolia-soulangeana-02 "Magnolia soulangeana")
 
-[{{<i class="ms ms-cloud">}} Morella californica I](morella-californica-01 "Morella californica")
+[{{<i class="ms ms-cloud">}} Morella californica I](../morella-californica-01 "Morella californica")
 
-[{{<i class="ms ms-cloud">}} Polystichum acrostichoides I](polystichum-acrostichoides-01 "Polystichum acrostichoides")
+[{{<i class="ms ms-cloud">}} Polystichum acrostichoides I](../polystichum-acrostichoides-01 "Polystichum acrostichoides")
 
-[{{<i class="ms ms-cloud">}} Quercus alba I](quercus-alba-01 "Quercus alba")
+[{{<i class="ms ms-cloud">}} Quercus alba I](../quercus-alba-01 "Quercus alba")
 
 ![Magnolia soulangeana](../magnolia-soulangeana-02.png)

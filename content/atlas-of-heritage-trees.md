@@ -26,10 +26,10 @@ public domain dedication.
 
 &nbsp;
 
-[{{<i class="ms ms-cloud">}} Big Cypress](big-cypress "Big Cypress")
+[{{<i class="ms ms-cloud">}} Big Cypress](../big-cypress "Big Cypress")
 
-[{{<i class="ms ms-cloud">}} Monarch of the Swamp](monarch-of-the-swamp "Monarch of the Swamp")
+[{{<i class="ms ms-cloud">}} Monarch of the Swamp](../monarch-of-the-swamp "Monarch of the Swamp")
 
-[{{<i class="ms ms-cloud">}} Duelling Oak](duelling-oak "Duelling Oak")
+[{{<i class="ms ms-cloud">}} Duelling Oak](../duelling-oak "Duelling Oak")
 
 ![Big Cypress](../big-cypress.jpg)
