@@ -170,11 +170,11 @@ This project is supported by the
 [LSU Center for GeoInformatics](http://c4g.lsu.edu/).
 The datasets are licensed [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-{{<i class="fas fa-braille">}} [Lidar 2022](https://xyz.cct.lsu.edu/data/hilltop/lidar-2022.html "Point Cloud Viewer for Hilltop Arboretum Lidar 2022")
+[{{<i class="fas fa-braille">}} Lidar 2022](https://xyz.cct.lsu.edu/data/hilltop/lidar-2022.html "Point Cloud Viewer for Hilltop Arboretum Lidar 2022")
 +
 [{{<i class="ms ms-cloud">}} hilltop-2022-12-07.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2022-12-07.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, December 7, 2022")
 
-{{<i class="fas fa-braille">}} [Lidar 2023](https://xyz.cct.lsu.edu/data/hilltop/lidar-2023.html "Point Cloud Viewer for Hilltop Arboretum Lidar 2023")
+[{{<i class="fas fa-braille">}} Lidar 2023](https://xyz.cct.lsu.edu/data/hilltop/lidar-2023.html "Point Cloud Viewer for Hilltop Arboretum Lidar 2023")
 +
 [{{<i class="ms ms-cloud">}} hilltop-2023-06-18.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2023-06-18.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, June 18, 2023")
 
@@ -270,10 +270,16 @@ public domain dedication.
 [Brendan Harmon](https://baharmon.github.io/), and
 [Nicholas Serrano](https://dcp.ufl.edu/faculties/nicholas-serrano/).
 
+**Equipment:** DJI Matrice 300 RTK with L1 Lidar
+
 **Funding:** National Park Service Preservation Technology and Training Grant
 
 [**African American Burial Grounds**](african-american-burial-grounds) &nbsp;
-This project aims to document African American burial grounds in the Louisiana River Parishes. The Louisiana River Parishes are scattered with hundreds of African American cemeteries dating back to the antebellum period when plantations lined both sides of the Mississippi River. This history of environmental racism continued into the 20th century as the region was favored for hazardous petrochemical production facilities. Today these cultural landscapes are threatened by industrial expansion, climate change, missing land-tenure records, and dwindling populations of descendant communities. Our team is 3D scanning burial grounds and compiling a database of interactive, publicly accessible digital models to preserve the record of these cultural landscapes. The project leads are Annicia Streete, Brendan Harmon, and Nicholas Serrano. This research is funded by a National Park Service Preservation Technology and Training Grant. The point clouds are released under the [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/) public domain dedication.
+This project aims to document African American burial grounds in the Louisiana River Parishes. The Louisiana River Parishes are scattered with hundreds of African American cemeteries dating back to the antebellum period when plantations lined both sides of the Mississippi River. This history of environmental racism continued into the 20th century as the region was favored for hazardous petrochemical production facilities. Today these cultural landscapes are threatened by industrial expansion, climate change, missing land-tenure records, and dwindling populations of descendant communities. Our team is 3D scanning burial grounds and compiling a database of interactive, publicly accessible digital models to preserve the record of these cultural landscapes. The project leads are Annicia Streete, Brendan Harmon, and Nicholas Serrano. This research is funded by a National Park Service Preservation Technology and Training Grant. This project is supported by the [LSU Center for GeoInformatics](http://c4g.lsu.edu/). The point clouds are released under the [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/) public domain dedication.
+
+[{{<i class="fas fa-braille">}} Lidar 2023](https://xyz.cct.lsu.edu/data/alford/alford-lidar.html "Point Cloud Viewer for Alford Cemetery Lidar 2023")
++
+[{{<i class="ms ms-cloud">}} alford-lidar.laz](https://xyz.cct.lsu.edu/data/alford/alford-lidar.laz "LAZ Point Cloud Dataset for Alford Cemetery 2023")
 
 {{< /expandable >}}
 
