@@ -15,6 +15,8 @@ includes
 [Prof. William Ma](https://design.lsu.edu/faculty/william-ma/).
 This research was supported by the
 [LSU Center for GeoInformatics](http://c4g.lsu.edu/)
-and funded by the
-[National Park Service's Historic Preservation Fund](https://www.nps.gov/subjects/historicpreservationfund/index.htm)
+and the LSU Coastal Ecosystem Design Studio.
+It was funded by 
+a National Park Service Preservation Technology and Training Grant,
+the [National Park Service's Historic Preservation Fund](https://www.nps.gov/subjects/historicpreservationfund/index.htm),
 and the LSU Arts & Humanities Project Support Fund.
