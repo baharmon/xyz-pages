@@ -188,7 +188,7 @@ Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, Huan Guo, William Reinhardt, 
       
       <guid>https://xyz.cct.lsu.edu/african-american-burial-grounds/</guid>
       <description>Team: Annicia Streete, Brendan Harmon, and Nicholas Serrano.
-Funding: National Park Service Preservation Technology and Training Grant
+Funding: National Park Service Preservation Technology and Training Grant &amp;amp; Architecture Research Centers Consortium&amp;rsquo;s Research Incentive Award
 This project aims to document African American burial grounds in the Louisiana River Parishes. The Louisiana River Parishes are scattered with hundreds of African American cemeteries dating back to the antebellum period when plantations lined both sides of the Mississippi River. This history of environmental racism continued into the 20th century as the region was favored for hazardous petrochemical production facilities.</description>
     </item>
     
@@ -215,6 +215,18 @@ Team: Brendan Harmon
 Equipment: DJI Matrice 300 RTK with L1 Lidar
 From 2022 onwards the meadow is being surveyed annually using a drone with lidar. The ongoing surveys are conducted with a DJI Matrice 300 RTK drone with an L1 lidar sensor. This project is supported by the LSU Center for GeoInformatics. The datasets are licensed Creative Commons Zero.
 Lidar 2022 + hilltop-2022-12-07.</description>
+    </item>
+    
+    <item>
+      <title>Le Petit Versailles</title>
+      <link>https://xyz.cct.lsu.edu/petit-versailles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xyz.cct.lsu.edu/petit-versailles/</guid>
+      <description>Location: Le Petit Versailles, Vacherie, St. James Parish, Louisiana
+Team: Brendan Harmon
+Equipment: DJI Matrice 300 RTK with L1 Lidar
+A drone lidar survey of 19th century pleasure garden of Valcour Aimee. Long abandoned, the ruins of the garden are lost beneath dense overgrowth and a canopy of mature southern live oaks. The lidar survey reveals traces of the garden such as the historic waterways and mound. This project was supported by the LSU Center for GeoInformatics and the LSU Coastal Ecosystem Design Studio.</description>
     </item>
     
     <item>
