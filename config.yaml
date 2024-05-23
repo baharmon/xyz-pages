@@ -75,7 +75,10 @@ menu:
     - name: Burial Grounds
       url: /african-american-burial-grounds/
       weight: 9
-      
+    - name: Petit Versailles
+      url: /petit-versailles/
+      weight: 10
+
 
 markup:
   defaultMarkdownHandler: goldmark

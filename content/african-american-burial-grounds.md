@@ -14,7 +14,7 @@ This project aims to document African American burial grounds in the Louisiana R
 
 ![Alford Cemetery](../alford-1.jpg)
 
-### Alford Cemetery
+{{< expandable label="Alford Cemetery" level="2" >}}
 
 **Location:** Alford Cemetery, West Baton Rouge Parish, Louisiana
 
@@ -23,3 +23,33 @@ This project aims to document African American burial grounds in the Louisiana R
 [{{<i class="fas fa-braille">}} Lidar 2023](https://xyz.cct.lsu.edu/data/alford/alford-lidar.html "Point Cloud Viewer for Alford Cemetery Lidar 2023")
 +
 [{{<i class="ms ms-cloud">}} alford-lidar.laz](https://xyz.cct.lsu.edu/data/alford/alford-lidar.laz "LAZ Point Cloud Dataset for Alford Cemetery 2023")
+
+{{< /expandable >}}
+
+{{< expandable label="Alma Cemetery" level="2" >}}
+
+{{< /expandable >}}
+
+{{< expandable label="Ashland Cemetery" level="2" >}}
+
+{{< /expandable >}}
+
+{{< expandable label="Chamberlin Cemetery" level="2" >}}
+
+{{< /expandable >}}
+
+{{< expandable label="Mt. Zion Riverlake Cemetery" level="2" >}}
+
+{{< /expandable >}}
+
+{{< expandable label="Orange Grove Cemetery" level="2" >}}
+
+{{< /expandable >}}
+
+{{< expandable label="Silvery Cemetery" level="2" >}}
+
+{{< /expandable >}}
+
+{{< expandable label="St. Catherine Cemetery" level="2" >}}
+
+{{< /expandable >}}
