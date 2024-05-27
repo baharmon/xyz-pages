@@ -263,14 +263,15 @@ public domain dedication.
 
 {{< expandable label="African American Burial Grounds" level="2" >}}
 
-![Alford Cemetery](alford-1.jpg)
+![Mulatto Bend Cemetery](mulatto-bend-lidar-2024.webp)
 
-**Location:** Alford Cemetery, West Baton Rouge Parish, Louisiana
-
-**Team:**
+**Team Leadership:**
 [Annicia Streete](https://design.lsu.edu/faculty/streete-annicia/),
 [Brendan Harmon](https://baharmon.github.io/), and
 [Nicholas Serrano](https://dcp.ufl.edu/faculties/nicholas-serrano/).
+
+**Team:**
+Carlos Roman, Cecil Chapman, Christos Baos, Graham Hargis, Joseph Brooks, etc.
 
 **Equipment:** DJI Matrice 300 RTK with L1 Lidar
 
