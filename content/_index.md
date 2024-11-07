@@ -10,6 +10,8 @@ a collection of point clouds from laser scanning and photogrammetry
 by Louisiana State University's
 [College of Art and Design](https://design.lsu.edu/).
 
+&nbsp;
+
 {{< expandable label="Rosedown" level="2" >}}
 
 ![Rosedown Dining Room](rosedown-dining-room.jpg)
@@ -360,7 +362,9 @@ Bare ground point cloud with hypsometric tinting
 
 {{< /expandable >}}
 
-<!--{{< map >}}-->
+&nbsp;
+
+{{< map >}}
 
 <!--
 {{<i class="ai ai-zenodo ai-3x">}}

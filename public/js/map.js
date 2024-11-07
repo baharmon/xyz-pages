@@ -25,7 +25,7 @@ $.getJSON("locations.json",function(data){
 
   // add popups
   function onEachFeature(feature, layer) {
-      layer.bindPopup("<b> Name: </b>" + feature.properties.name + "<br>" + "<b>Location: </b>" + feature.properties.location + "<br>" + "<b>Link: </b>" + "<a href=" + feature.properties.url + ">"+ feature.properties.url +"</a>");
+      layer.bindPopup("<b> Name: </b>" + "<a href=" + feature.properties.url + ">"+ feature.properties.name +"</a>" + "<br>" + "<b>Location: </b>" + feature.properties.location + "<br>");
   }
 
   // add GeoJSON layer to the map once the file is loaded

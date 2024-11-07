@@ -28,7 +28,7 @@ params:
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  # navTitleText: Cupper Theme
+  # navTitleText:
   logoAlt: Point cloud logo
   customCss:
     - css/leaflet.css
@@ -44,7 +44,6 @@ params:
     - js/leaflet.js
     - js/L.Control.Sidebar.js
     - js/leaflet-providers.js
-    - js/map.js
 
 menu:
   nav:
@@ -78,7 +77,6 @@ menu:
     - name: Petit Versailles
       url: /petit-versailles/
       weight: 10
-
 
 markup:
   defaultMarkdownHandler: goldmark

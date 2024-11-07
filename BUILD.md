@@ -11,6 +11,11 @@ git commit -am 'commit message'
 git push
 ```
 
+View locally
+```
+hugo server --baseURL http://127.0.0.1:1313/
+```
+
 ## Server
 Pull on server
 ```
