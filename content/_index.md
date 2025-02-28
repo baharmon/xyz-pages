@@ -275,7 +275,7 @@ public domain dedication.
 [Nicholas Serrano](https://dcp.ufl.edu/faculties/nicholas-serrano/).
 
 **Team:**
-Carlos Roman, Cecil Chapman, Christos Baos, Graham Hargis, Joseph Brooks, etc.
+Joseph Brooks, Carlos Roman, Cecil Chapman, Caroline Robertson, Christos Baos, Graham Hargis, etc.
 
 **Equipment:** DJI Matrice 300 RTK with L1 Lidar
 
@@ -341,7 +341,7 @@ This project aims to document African American burial grounds in the Louisiana R
 **Equipment:** DJI Matrice 300 RTK with L1 Lidar
 
 [**Le Petit Versailles**](petit-versailles) &nbsp;
-A drone lidar survey of 19th century pleasure garden of Valcour Aimee. Long abandoned, the ruins of the garden are lost beneath dense overgrowth and a canopy of mature southern live oaks. The lidar survey reveals traces of the garden such as the historic waterways and mound. This project was supported by the [LSU Center for GeoInformatics](http://c4g.lsu.edu/) and the LSU Coastal Ecosystem Design Studio. The data are released under the [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/) public domain dedication.
+A drone lidar survey of 19th century pleasure garden of Valcour Aime. Long abandoned, the ruins of the garden are lost beneath dense overgrowth and a canopy of mature southern live oaks. The lidar survey reveals traces of the garden such as the historic waterways and mound. This project was supported by the [LSU Center for GeoInformatics](http://c4g.lsu.edu/) and the LSU Coastal Ecosystem Design Studio. The spatial reference system of the data is WGS 84 / UTM zone 15N (EPSG: 32615). The data are released under the [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/) public domain dedication.
 
 ![Le Petit Versailles Lidar](petit-versailles-1.webp)
 Lidar point cloud with true color
