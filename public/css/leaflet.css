@@ -125,8 +125,12 @@
 	display: inline-block;
 	position: absolute;
 	}
-
-
+    
+#map {
+    background-color: unset;
+    margin: unset;
+    padding: unset;
+}
 /* control positioning */
 
 .leaflet-control {
@@ -160,6 +164,7 @@
 .leaflet-right .leaflet-control {
 	float: right;
 	}
+/*
 .leaflet-top .leaflet-control {
 	margin-top: 10px;
 	}
@@ -172,6 +177,12 @@
 .leaflet-right .leaflet-control {
 	margin-right: 10px;
 	}
+*/
+.leaflet-control-container {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
 
 
 /* zoom and fade animations */

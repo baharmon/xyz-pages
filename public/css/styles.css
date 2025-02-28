@@ -25,9 +25,11 @@ html {
 template {
   display: none !important;
 }
+/*
 * + * {
     margin-top: 2.25rem;
 }
+*/
 br,
 dt,
 dd,

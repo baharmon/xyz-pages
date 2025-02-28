@@ -6,9 +6,13 @@ title: "Point Cloud Repository"
 ![Rosedown Landscape](rosedown-landscape.jpg)
 
 Welcome to the **XYZ Point Cloud Repository**,
-a collection of point clouds from laser scanning and photogrammetry
+a collection of point clouds from 
+laser scanning, photogrammetry, 
+and neural radiance fields
 by Louisiana State University's
 [College of Art and Design](https://design.lsu.edu/).
+
+&nbsp;
 
 {{< expandable label="Rosedown" level="2" >}}
 
@@ -360,7 +364,9 @@ Bare ground point cloud with hypsometric tinting
 
 {{< /expandable >}}
 
-<!--{{< map >}}-->
+&nbsp;
+
+{{< map >}}
 
 <!--
 {{<i class="ai ai-zenodo ai-3x">}}

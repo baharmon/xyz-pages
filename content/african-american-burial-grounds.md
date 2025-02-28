@@ -8,7 +8,7 @@ title: "African American Burial Grounds"
 [Nicholas Serrano](https://dcp.ufl.edu/faculties/nicholas-serrano/).
 
 **Team:**
-Carlos Roman, Cecil Chapman, Christos Baos, Graham Hargis, Joseph Brooks, etc.
+Joseph Brooks, Carlos Roman, Cecil Chapman, Caroline Robertson, Christos Baos, Graham Hargis, etc.
 
 **Funding:** National Park Service Preservation Technology and Training Grant
 & Architecture Research Centers Consortium's Research Incentive Award

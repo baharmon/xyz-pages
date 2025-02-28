@@ -6,253 +6,147 @@
     <description>Recent content in Point Cloud Repository on XYZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://xyz.cct.lsu.edu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2024 21:36:57 -0500</lastBuildDate>
+    <atom:link href="https://xyz.cct.lsu.edu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atlas of Heritage Trees</title>
       <link>https://xyz.cct.lsu.edu/atlas-of-heritage-trees/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/atlas-of-heritage-trees/</guid>
       <description>The Atlas of Heritage Trees is an archive of ancient trees of exceptional historical, cultural, and ecological significance. The trees, captured using terrestrial laser scanning and drone lidar, have been archived in laz, e57, pcd, xyz, and 3dm format point clouds. The project leads are Brendan Harmon and Hye Yeon Nam. Contributors include Javier Zamora, Huan Guo, William Reinhardt, Julie Whitbeck, Kaiti Fink, and Jeff Boucher. This project was funded by the LSU Arts &amp;amp; Humanities Support Fund and supported by the LSU Center for GeoInformatics and the LSU Coastal Ecosystem Design Studio.</description>
     </item>
-    
     <item>
       <title>Avery Island Buddha</title>
       <link>https://xyz.cct.lsu.edu/avery-island-buddha/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/avery-island-buddha/</guid>
-      <description>Location: Jungle Gardens, Avery Island, Louisiana
-Team: Brendan Harmon &amp;amp; William Ma
-A laser scan of the Buddha in the Jungle Gardens on Avery Island in Louisiana by Brendan Harmon and William Ma. The point cloud is licensed Creative Commons Zero.
- Viewer
-Point Clouds</description>
+      <description>Location: Jungle Gardens, Avery Island, Louisiana&#xA;Team: Brendan Harmon &amp;amp; William Ma&#xA;A laser scan of the Buddha in the Jungle Gardens on Avery Island in Louisiana by Brendan Harmon and William Ma. The point cloud is licensed Creative Commons Zero.&#xA;Viewer&#xA;Point Clouds</description>
     </item>
-    
     <item>
       <title>Cloud Forest</title>
       <link>https://xyz.cct.lsu.edu/cloud-forest/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/cloud-forest/</guid>
-      <description>Cloud Forest is a collection of laser scanned trees and other plants. Each plant is available as laz, e57, pcd, xyz, and 3dm format point clouds. The project lead is Brendan Harmon. The project team includes Javier Zamora, Huan Guo, Jacob Contreras, and Ryan Antoon. The point clouds are released under the Creative Commons Zero public domain dedication. 10.5281/zenodo.8194067
- Laurus nobilis I
-Magnolia soulangeana I</description>
+      <description>Cloud Forest is a collection of laser scanned trees and other plants. Each plant is available as laz, e57, pcd, xyz, and 3dm format point clouds. The project lead is Brendan Harmon. The project team includes Javier Zamora, Huan Guo, Jacob Contreras, and Ryan Antoon. The point clouds are released under the Creative Commons Zero public domain dedication. 10.5281/zenodo.8194067&#xA;Laurus nobilis I&#xA;Magnolia soulangeana I&#xA;Magnolia soulangeana II&#xA;Morella californica I</description>
     </item>
-    
     <item>
       <title>Big Cypress</title>
       <link>https://xyz.cct.lsu.edu/big-cypress/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/big-cypress/</guid>
-      <description>Cat Island Specimen: Big Cypress
-Location: Cat Island National Wildlife Refuge, Louisiana
-Latin Name: Taxodium distichum
-Common Name: Bald Cypress
-Estimated Age: 1500
-Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, &amp;amp; Huan Guo
- Viewer
-Point Clouds: laz + e57 + pcd + xyz + 3dm
-Mesh: stl</description>
+      <description>Cat Island Specimen: Big Cypress&#xA;Location: Cat Island National Wildlife Refuge, Louisiana&#xA;Latin Name: Taxodium distichum&#xA;Common Name: Bald Cypress&#xA;Estimated Age: 1500&#xA;Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, &amp;amp; Huan Guo&#xA;Viewer&#xA;Point Clouds: laz + e57 + pcd + xyz + 3dm&#xA;Mesh: stl</description>
     </item>
-    
     <item>
       <title>Duelling Oak</title>
       <link>https://xyz.cct.lsu.edu/duelling-oak/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/duelling-oak/</guid>
-      <description>New Orleans City Park Specimen: Duelling Oak
-Location: City Park, New Orleans, Louisiana
-Latin Name: Quercus virginiana
-Common Name: Southern Live Oak
-Estimated Age: 300
-Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, &amp;amp; Huan Guo
- Viewer
-Point Clouds: laz + e57 + pcd + xyz + 3dm
-Mesh: stl</description>
+      <description>New Orleans City Park Specimen: Duelling Oak&#xA;Location: City Park, New Orleans, Louisiana&#xA;Latin Name: Quercus virginiana&#xA;Common Name: Southern Live Oak&#xA;Estimated Age: 300&#xA;Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, &amp;amp; Huan Guo&#xA;Viewer&#xA;Point Clouds: laz + e57 + pcd + xyz + 3dm&#xA;Mesh: stl</description>
     </item>
-    
     <item>
       <title>Laurus nobilis</title>
       <link>https://xyz.cct.lsu.edu/laurus-nobilis-01/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/laurus-nobilis-01/</guid>
-      <description>Bay Laurel Viewer
-Large: laz + e57 + pcd + xyz + 3dm
-Mediun: laz + e57 + pcd + xyz + 3dm
-Small: laz + e57 + pcd + xyz + 3dm</description>
+      <description>Bay Laurel Viewer&#xA;Large: laz + e57 + pcd + xyz + 3dm&#xA;Mediun: laz + e57 + pcd + xyz + 3dm&#xA;Small: laz + e57 + pcd + xyz + 3dm</description>
     </item>
-    
     <item>
       <title>Magnolia soulangeana</title>
       <link>https://xyz.cct.lsu.edu/magnolia-soulangeana-01/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/magnolia-soulangeana-01/</guid>
-      <description>Saucer Magnolia Viewer
-Large: laz + e57 + pcd + xyz + 3dm
-Mediun: laz + e57 + pcd + xyz + 3dm
-Small: laz + e57 + pcd + xyz + 3dm</description>
+      <description>Saucer Magnolia Viewer&#xA;Large: laz + e57 + pcd + xyz + 3dm&#xA;Mediun: laz + e57 + pcd + xyz + 3dm&#xA;Small: laz + e57 + pcd + xyz + 3dm</description>
     </item>
-    
     <item>
       <title>Magnolia soulangeana</title>
       <link>https://xyz.cct.lsu.edu/magnolia-soulangeana-02/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/magnolia-soulangeana-02/</guid>
-      <description>Saucer Magnolia Viewer
-Large: laz + e57 + pcd + xyz + 3dm
-Mediun: laz + e57 + pcd + xyz + 3dm
-Small: laz + e57 + pcd + xyz + 3dm</description>
+      <description>Saucer Magnolia Viewer&#xA;Large: laz + e57 + pcd + xyz + 3dm&#xA;Mediun: laz + e57 + pcd + xyz + 3dm&#xA;Small: laz + e57 + pcd + xyz + 3dm</description>
     </item>
-    
     <item>
       <title>Monarch of the Swamp</title>
       <link>https://xyz.cct.lsu.edu/monarch-of-the-swamp/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/monarch-of-the-swamp/</guid>
-      <description>Barataria Preserve Specimen: Monarch of the Swamp
-Location: Barataria Preserve, Jean Lafitte National Park, Louisiana
-Latin Name: Taxodium distichum
-Common Name: Bald Cypress
-Estimated Age: 600
-Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, Huan Guo, William Reinhardt, Julie Whitbeck, Kaiti Fink, &amp;amp; Jeff Boucher
- Viewer
-Point Clouds: laz + e57 + pcd + xyz + 3dm
-Mesh: stl</description>
+      <description>Barataria Preserve Specimen: Monarch of the Swamp&#xA;Location: Barataria Preserve, Jean Lafitte National Park, Louisiana&#xA;Latin Name: Taxodium distichum&#xA;Common Name: Bald Cypress&#xA;Estimated Age: 600&#xA;Team: Brendan Harmon, Hye Yeon Nam, Javier Zamora, Huan Guo, William Reinhardt, Julie Whitbeck, Kaiti Fink, &amp;amp; Jeff Boucher&#xA;Viewer&#xA;Point Clouds: laz + e57 + pcd + xyz + 3dm&#xA;Mesh: stl</description>
     </item>
-    
     <item>
       <title>Morella californica</title>
       <link>https://xyz.cct.lsu.edu/morella-californica-01/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/morella-californica-01/</guid>
-      <description>Wax Myrtle Viewer
-Large: laz + e57 + pcd + xyz + 3dm
-Mediun: laz + e57 + pcd + xyz + 3dm
-Small: laz + e57 + pcd + xyz + 3dm</description>
+      <description>Wax Myrtle Viewer&#xA;Large: laz + e57 + pcd + xyz + 3dm&#xA;Mediun: laz + e57 + pcd + xyz + 3dm&#xA;Small: laz + e57 + pcd + xyz + 3dm</description>
     </item>
-    
     <item>
       <title>Polystichum acrostichoides</title>
       <link>https://xyz.cct.lsu.edu/polystichum-acrostichoides-01/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/polystichum-acrostichoides-01/</guid>
-      <description>Christmas Fern Viewer
-Large: laz + e57 + pcd + xyz + 3dm
-Mediun: laz + e57 + pcd + xyz + 3dm
-Small: laz + e57 + pcd + xyz + 3dm</description>
+      <description>Christmas Fern Viewer&#xA;Large: laz + e57 + pcd + xyz + 3dm&#xA;Mediun: laz + e57 + pcd + xyz + 3dm&#xA;Small: laz + e57 + pcd + xyz + 3dm</description>
     </item>
-    
     <item>
       <title>Quercus alba</title>
       <link>https://xyz.cct.lsu.edu/quercus-alba-01/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/quercus-alba-01/</guid>
-      <description>White Oak Viewer
-Large: laz + e57 + pcd + xyz + 3dm
-Mediun: laz + e57 + pcd + xyz + 3dm
-Small: laz + e57 + pcd + xyz + 3dm</description>
+      <description>White Oak Viewer&#xA;Large: laz + e57 + pcd + xyz + 3dm&#xA;Mediun: laz + e57 + pcd + xyz + 3dm&#xA;Small: laz + e57 + pcd + xyz + 3dm</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://xyz.cct.lsu.edu/about/</link>
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/about/</guid>
       <description>This is a collection of point clouds from photogrammetry and laser scanning recording the cultural heritage of landscapes. The team from Louisiana State University&amp;rsquo;s College of Art and Design includes Prof. Brendan Harmon, Prof. Hye Yeon Nam, Prof. Nicholas Serrano, and Prof. William Ma. This research was supported by the LSU Center for GeoInformatics and the LSU Coastal Ecosystem Design Studio. It was funded by a National Park Service Preservation Technology and Training Grant, the National Park Service&amp;rsquo;s Historic Preservation Fund, and the LSU Arts &amp;amp; Humanities Project Support Fund.</description>
     </item>
-    
     <item>
       <title>Print version</title>
       <link>https://xyz.cct.lsu.edu/print-version/</link>
       <pubDate>Sat, 29 Jul 2017 22:48:43 +0100</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/print-version/</guid>
       <description>You don&amp;rsquo;t want to edit this file :-)</description>
     </item>
-    
     <item>
       <title>African American Burial Grounds</title>
       <link>https://xyz.cct.lsu.edu/african-american-burial-grounds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/african-american-burial-grounds/</guid>
-      <description>Team Leadership: Annicia Streete, Brendan Harmon, and Nicholas Serrano.
-Team: Carlos Roman, Cecil Chapman, Christos Baos, Graham Hargis, Joseph Brooks, etc.
-Funding: National Park Service Preservation Technology and Training Grant &amp;amp; Architecture Research Centers Consortium&amp;rsquo;s Research Incentive Award
-This project aims to document African American burial grounds in the Louisiana River Parishes. The Louisiana River Parishes are scattered with hundreds of African American cemeteries dating back to the antebellum period when plantations lined both sides of the Mississippi River.</description>
+      <description>Team Leadership: Annicia Streete, Brendan Harmon, and Nicholas Serrano.&#xA;Team: Carlos Roman, Cecil Chapman, Christos Baos, Graham Hargis, Joseph Brooks, etc.&#xA;Funding: National Park Service Preservation Technology and Training Grant &amp;amp; Architecture Research Centers Consortium&amp;rsquo;s Research Incentive Award&#xA;This project aims to document African American burial grounds in the Louisiana River Parishes. The Louisiana River Parishes are scattered with hundreds of African American cemeteries dating back to the antebellum period when plantations lined both sides of the Mississippi River.</description>
     </item>
-    
     <item>
       <title>Hilltop Arboretum</title>
       <link>https://xyz.cct.lsu.edu/hilltop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/hilltop/</guid>
-      <description>Hilltop Photogrammetry Location: Hilltop Arboretum, Baton Rouge, Louisiana
-Team: Brendan Harmon, Josef Horacek, Dan Cooke, &amp;amp; Matthew Cranney
-Equipment: FireFLY Pro 6 with MicaSense RedEdge-M sensor
-A Cajun Prairie Wildflower Meadow was established in 2020 at the LSU Hilltop Arboretum in Baton Rouge, Louisiana. Five fields have been restored as coastal tallgrass prairie, a highly endangered ecosystem of which only one percent remains intact. From 2020 to 2021, the evolution of the newly established meadow was recorded with a series of monthly aerial surveys by a drone with a multispectral sensor.</description>
+      <description>Hilltop Photogrammetry Location: Hilltop Arboretum, Baton Rouge, Louisiana&#xA;Team: Brendan Harmon, Josef Horacek, Dan Cooke, &amp;amp; Matthew Cranney&#xA;Equipment: FireFLY Pro 6 with MicaSense RedEdge-M sensor&#xA;A Cajun Prairie Wildflower Meadow was established in 2020 at the LSU Hilltop Arboretum in Baton Rouge, Louisiana. Five fields have been restored as coastal tallgrass prairie, a highly endangered ecosystem of which only one percent remains intact. From 2020 to 2021, the evolution of the newly established meadow was recorded with a series of monthly aerial surveys by a drone with a multispectral sensor.</description>
     </item>
-    
     <item>
       <title>Hilltop Arboretum Lidar</title>
       <link>https://xyz.cct.lsu.edu/hilltop-lidar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/hilltop-lidar/</guid>
-      <description>Location: Hilltop Arboretum, Baton Rouge, Louisiana
-Team: Brendan Harmon
-Equipment: DJI Matrice 300 RTK with L1 Lidar
-From 2022 onwards the meadow is being surveyed annually using a drone with lidar. The ongoing surveys are conducted with a DJI Matrice 300 RTK drone with an L1 lidar sensor. This project is supported by the LSU Center for GeoInformatics. The datasets are licensed Creative Commons Zero.
-Lidar 2022 + hilltop-2022-12-07.</description>
+      <description>Location: Hilltop Arboretum, Baton Rouge, Louisiana&#xA;Team: Brendan Harmon&#xA;Equipment: DJI Matrice 300 RTK with L1 Lidar&#xA;From 2022 onwards the meadow is being surveyed annually using a drone with lidar. The ongoing surveys are conducted with a DJI Matrice 300 RTK drone with an L1 lidar sensor. This project is supported by the LSU Center for GeoInformatics. The datasets are licensed Creative Commons Zero.&#xA;Lidar 2022 + hilltop-2022-12-07.laz&#xA;Lidar 2023 + hilltop-2023-06-18.</description>
     </item>
-    
     <item>
       <title>Le Petit Versailles</title>
       <link>https://xyz.cct.lsu.edu/petit-versailles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/petit-versailles/</guid>
-      <description>Location: Le Petit Versailles, Vacherie, St. James Parish, Louisiana
-Team: Brendan Harmon
-Equipment: DJI Matrice 300 RTK with L1 Lidar
-A drone lidar survey of 19th century pleasure garden of Valcour Aimee. Long abandoned, the ruins of the garden are lost beneath dense overgrowth and a canopy of mature southern live oaks. The lidar survey reveals traces of the garden such as the historic waterways and mound. This project was supported by the LSU Center for GeoInformatics and the LSU Coastal Ecosystem Design Studio.</description>
+      <description>Location: Le Petit Versailles, Vacherie, St. James Parish, Louisiana&#xA;Team: Brendan Harmon&#xA;Equipment: DJI Matrice 300 RTK with L1 Lidar&#xA;A drone lidar survey of 19th century pleasure garden of Valcour Aimee. Long abandoned, the ruins of the garden are lost beneath dense overgrowth and a canopy of mature southern live oaks. The lidar survey reveals traces of the garden such as the historic waterways and mound. This project was supported by the LSU Center for GeoInformatics and the LSU Coastal Ecosystem Design Studio.</description>
     </item>
-    
     <item>
       <title>Rosedown</title>
       <link>https://xyz.cct.lsu.edu/rosedown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/rosedown/</guid>
-      <description>Location: Rosedown Plantation, St. Francisville, Louisiana
-Team: Brendan Harmon, Nicholas Serrano, Josef Horacek, Sasha Matthieu, William Conrad, Javier Zamora, Matthew Cranney, &amp;amp; Ming Li
-Funding: National Park Service&amp;rsquo;s Historic Preservation Fund
-Rosedown is a two hundred acre site in St. Francisville, Louisiana with the well preserved remains of an antebellum plantation dating from 1834 including the main house, ancillary buildings, and formal gardens. The point cloud of Rosedown was created using terrestrial laser scanning with a Faro Focus and drone photogrammetry with a DJI Matrice 600 Pro with Zenmuse X5 camera.</description>
+      <description>Location: Rosedown Plantation, St. Francisville, Louisiana&#xA;Team: Brendan Harmon, Nicholas Serrano, Josef Horacek, Sasha Matthieu, William Conrad, Javier Zamora, Matthew Cranney, &amp;amp; Ming Li&#xA;Funding: National Park Service&amp;rsquo;s Historic Preservation Fund&#xA;Rosedown is a two hundred acre site in St. Francisville, Louisiana with the well preserved remains of an antebellum plantation dating from 1834 including the main house, ancillary buildings, and formal gardens. The point cloud of Rosedown was created using terrestrial laser scanning with a Faro Focus and drone photogrammetry with a DJI Matrice 600 Pro with Zenmuse X5 camera.</description>
     </item>
-    
     <item>
       <title>Title</title>
       <link>https://xyz.cct.lsu.edu/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://xyz.cct.lsu.edu/template/</guid>
-      <description>Subtitle Location:
-Team: Brendan Harmon, Hye Yeon Nam, etc.
- Viewer
-Point Clouds</description>
+      <description>Subtitle Location:&#xA;Team: Brendan Harmon, Hye Yeon Nam, etc.&#xA;Viewer&#xA;Point Clouds</description>
     </item>
-    
   </channel>
 </rss>
