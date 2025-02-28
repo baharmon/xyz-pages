@@ -17,6 +17,7 @@ hugo server --baseURL http://127.0.0.1:1313/
 ```
 
 ## Server
+Connect to VPN
 Pull on server
 ```
 ssh baharmon@xyz.cct.lsu.edu -p 2525
