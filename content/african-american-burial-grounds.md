@@ -93,7 +93,7 @@ This project aims to document African American burial grounds in the Louisiana R
 
 {{< expandable label="Mt. Zion Riverlake Cemetery" level="2" >}}
 
-**Location:** Mt. Zion Riverlake Cemetery, West Baton Rouge Parish, Louisiana
+**Location:** Mt. Zion Riverlake Cemetery, Pointe Coupee Parish, Louisiana
 
 **Equipment:** DJI Matrice 300 RTK with L1 Lidar
 
