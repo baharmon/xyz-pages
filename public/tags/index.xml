@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on XYZ</title>
-    <link>http://127.0.0.1:1313/tags/</link>
+    <link>https://xyz.cct.lsu.edu/tags/</link>
     <description>Recent content in Tags on XYZ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://127.0.0.1:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xyz.cct.lsu.edu/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
