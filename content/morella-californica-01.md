@@ -1,43 +1,33 @@
 ---
-date: "2022-07-28"
+date: "2022-10-20"
 title: "Morella californica"
 ---
 
 ### Wax Myrtle
 
+**Location:** Capitol Gardens, Baton Rouge, Louisiana
+
+**Date:** October 20, 2022
+
+**Team:** Brendan Harmon
+
+**Capture:** Terrestrial Laser Scan
+
+**Equipment:** Faro Focus
+
 [{{<i class="fas fa-braille">}} Viewer](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01.html "Morella californica viewer")
 
-{{<i class="ms ms-database">}} Large:
-[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-l.laz "Morella californica LAZ")
+{{<i class="ms ms-database">}} Point Clouds:
+[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01.laz "Morella californica LAZ")
 + 
-[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-l.e57 "Morella californica E57")
+[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01.e57 "Morella californica E57")
 + 
-[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-l.pcd "Morella californica PCD")
+[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01.pcd "Morella californica PCD")
 + 
-[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-l.xyz "Morella californica XYZ")
+[``ply``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01.ply "Morella californica PLY")
 + 
-[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-l.3dm "Morella californica 3DM")
+[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01.xyz "Morella californica XYZ")
++ 
+[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01.3dm "Morella californica 3DM")
 
-{{<i class="ms ms-database">}} Mediun:
-[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-m.laz "Morella californica LAZ")
-+ 
-[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-m.e57 "Morella californica E57")
-+ 
-[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-m.pcd "Morella californica PCD")
-+ 
-[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-m.xyz "Morella californica XYZ")
-+ 
-[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-m.3dm "Morella californica 3DM")
-
-{{<i class="ms ms-database">}} Small:
-[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-s.laz "Morella californica LAZ")
-+ 
-[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-s.e57 "Morella californica E57")
-+ 
-[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-s.pcd "Morella californica PCD")
-+ 
-[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-s.xyz "Morella californica XYZ")
-+ 
-[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/morella-californica-01/morella-californica-01-s.3dm "Morella californica 3DM")
-
-![Morella californica](../morella-californica-01.png)
+![Morella californica](../morella-californica-01.webp)

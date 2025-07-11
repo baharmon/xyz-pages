@@ -27,4 +27,4 @@ The datasets are licensed [{{<i class="fab fa-creative-commons-zero">}} Creative
 +
 [{{<i class="ms ms-cloud">}} hilltop-2023-06-18.laz](https://xyz.cct.lsu.edu/data/hilltop/hilltop-2023-06-18.laz "LAZ Point Cloud Dataset for Hilltop Arboretum, June 18, 2023")
 
-![Hilltop Arboretum](../hilltop-1.jpg)
+![Hilltop Arboretum](../hilltop-1.webp)

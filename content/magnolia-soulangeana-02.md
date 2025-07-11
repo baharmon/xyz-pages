@@ -1,43 +1,33 @@
 ---
-date: "2022-07-28"
+date: "2023-03-04"
 title: "Magnolia soulangeana"
 ---
 
 ### Saucer Magnolia
 
+**Location:** Louisiana State University, Baton Rouge, Louisiana
+
+**Date:** March 4, 2023
+
+**Team:** Brendan Harmon
+
+**Capture:** Terrestrial Laser Scan
+
+**Equipment:** Faro Focus
+
 [{{<i class="fas fa-braille">}} Viewer](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02.html "Magnolia soulangeana viewer")
 
-{{<i class="ms ms-database">}} Large:
-[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-l.laz "Magnolia soulangeana LAZ")
+{{<i class="ms ms-database">}} Point Clouds:
+[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02.laz "Magnolia soulangeana LAZ")
 + 
-[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-l.e57 "Magnolia soulangeana E57")
+[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02.e57 "Magnolia soulangeana E57")
 + 
-[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-l.pcd "Magnolia soulangeana PCD")
+[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02.pcd "Magnolia soulangeana PCD")
 + 
-[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-l.xyz "Magnolia soulangeana XYZ")
+[``ply``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02.ply "Magnolia soulangeana PLY")
 + 
-[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-l.3dm "Magnolia soulangeana 3DM")
+[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02.xyz "Magnolia soulangeana XYZ")
++ 
+[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02.3dm "Magnolia soulangeana 3DM")
 
-{{<i class="ms ms-database">}} Mediun:
-[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-m.laz "Magnolia soulangeana LAZ")
-+ 
-[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-m.e57 "Magnolia soulangeana E57")
-+ 
-[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-m.pcd "Magnolia soulangeana PCD")
-+ 
-[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-m.xyz "Magnolia soulangeana XYZ")
-+ 
-[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-m.3dm "Magnolia soulangeana 3DM")
-
-{{<i class="ms ms-database">}} Small:
-[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-s.laz "Magnolia soulangeana LAZ")
-+ 
-[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-s.e57 "Magnolia soulangeana E57")
-+ 
-[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-s.pcd "Magnolia soulangeana PCD")
-+ 
-[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-s.xyz "Magnolia soulangeana XYZ")
-+ 
-[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/magnolia-soulangeana-02/magnolia-soulangeana-02-s.3dm "Magnolia soulangeana 3DM")
-
-![Magnolia soulangeana](../magnolia-soulangeana-02.png)
+![Magnolia soulangeana](../magnolia-soulangeana-02.webp)

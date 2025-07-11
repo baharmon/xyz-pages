@@ -1,5 +1,5 @@
 ---
-date: "2022-07-28"
+date: "2023-08-01"
 title: "Big Cypress"
 ---
 
@@ -7,7 +7,9 @@ title: "Big Cypress"
 
 **Specimen:** Big Cypress
 
-**Location:** [Cat Island National Wildlife Refuge](https://www.fws.gov/refuge/cat-island), Louisiana
+**Location:** Cat Island National Wildlife Refuge, Louisiana, USA
+
+**Coordinates:** 30.764631920306666, -91.47623711936825
 
 **Latin Name:** Taxodium distichum
 
@@ -15,13 +17,19 @@ title: "Big Cypress"
 
 **Estimated Age:** 1500
 
+**Date:** August 1, 2023
+
+**Capture:** Terrestrial laser scanning
+
+**Equipment:** Faro Focus
+
 **Team:** 
 [Brendan Harmon](https://baharmon.github.io/),
 [Hye Yeon Nam](https://hynam.org/),
 Javier Zamora, 
 & Huan Guo
 
-&nbsp;  
+&nbsp;
 
 [{{<i class="fas fa-braille">}} Viewer](https://xyz.cct.lsu.edu/data/heritage-trees/big-cypress/big-cypress.html "Big Cypress Viewer")
 
@@ -32,6 +40,8 @@ Javier Zamora,
 +
 [``pcd``](https://xyz.cct.lsu.edu/data/heritage-trees/big-cypress/big-cypress.pcd "Big Cypress PCD")
 +
+[``ply``](https://xyz.cct.lsu.edu/data/heritage-trees/big-cypress/big-cypress.ply "Big Cypress PLY")
++
 [``xyz``](https://xyz.cct.lsu.edu/data/heritage-trees/big-cypress/big-cypress.xyz "Big Cypress XYZ")
 +
 [``3dm``](https://xyz.cct.lsu.edu/data/heritage-trees/big-cypress/big-cypress.3dm "Big Cypress 3DM")
@@ -39,5 +49,5 @@ Javier Zamora,
 {{<i class="ms ms-polygon">}} Mesh:
 [``stl``](https://xyz.cct.lsu.edu/data/heritage-trees/big-cypress/big-cypress.stl "Big Cypress STL")
 
-![Big Cypress](../big-cypress.jpg)
+![Big Cypress](../big-cypress.webp)
 

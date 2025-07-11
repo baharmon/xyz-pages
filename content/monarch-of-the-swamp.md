@@ -1,5 +1,5 @@
 ---
-date: "2022-07-28"
+date: "2023-08-15"
 title: "Monarch of the Swamp"
 ---
 
@@ -7,13 +7,21 @@ title: "Monarch of the Swamp"
 
 **Specimen:** Monarch of the Swamp
 
-**Location:** Barataria Preserve, [Jean Lafitte National Park](https://www.nps.gov/jela/), Louisiana
+**Location:** Barataria Preserve, Jean Lafitte National Park, Louisiana, USA
+
+**Coordinates:** 29.791374216035685, -90.12639316437154
 
 **Latin Name:** Taxodium distichum
 
 **Common Name:** Bald Cypress
 
 **Estimated Age:** 600
+
+**Date:** August 15, 2023
+
+**Capture:** Terrestrial laser scanning
+
+**Equipment:** Faro Focus
 
 **Team:** 
 [Brendan Harmon](https://baharmon.github.io/),
@@ -36,6 +44,8 @@ Kaiti Fink,
 +
 [``pcd``](https://xyz.cct.lsu.edu/data/heritage-trees/monarch-of-the-swamp/monarch-of-the-swamp.pcd "Monarch of the Swamp PCD")
 +
+[``ply``](https://xyz.cct.lsu.edu/data/heritage-trees/monarch-of-the-swamp/monarch-of-the-swamp.ply "Monarch of the Swamp PLY")
++
 [``xyz``](https://xyz.cct.lsu.edu/data/heritage-trees/monarch-of-the-swamp/monarch-of-the-swamp.xyz "Monarch of the Swamp XYZ")
 +
 [``3dm``](https://xyz.cct.lsu.edu/data/heritage-trees/monarch-of-the-swamp/monarch-of-the-swamp.3dm "Monarch of the Swamp 3DM")
@@ -43,5 +53,5 @@ Kaiti Fink,
 {{<i class="ms ms-polygon">}} Mesh:
 [``stl``](https://xyz.cct.lsu.edu/data/heritage-trees/monarch-of-the-swamp/monarch-of-the-swamp.stl "Monarch of the Swamp STL")
 
-![Monarch of the Swamp](../monarch-of-the-swamp.jpg)
+![Monarch of the Swamp](../monarch-of-the-swamp.webp)
 

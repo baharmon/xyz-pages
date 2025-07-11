@@ -1,5 +1,5 @@
 ---
-date: "2022-07-28"
+date: "2023-07-02"
 title: "Duelling Oak"
 ---
 
@@ -7,13 +7,21 @@ title: "Duelling Oak"
 
 **Specimen:** Duelling Oak
 
-**Location:** [City Park](https://neworleanscitypark.org/), New Orleans, Louisiana
+**Location:** City Park, New Orleans, Louisiana, USA
+
+**Coordinates:** 29.985623002642445, -90.09415831799969
 
 **Latin Name:** Quercus virginiana
 
 **Common Name:** Southern Live Oak
 
 **Estimated Age:** 300
+
+**Date:** July 2, 2023
+
+**Capture:** Terrestrial laser scanning
+
+**Equipment:** Faro Focus
 
 **Team:** 
 [Brendan Harmon](https://baharmon.github.io/),
@@ -32,6 +40,8 @@ Javier Zamora,
 +
 [``pcd``](https://xyz.cct.lsu.edu/data/heritage-trees/duelling-oak/duelling-oak.pcd "Duelling Oak PCD")
 +
+[``ply``](https://xyz.cct.lsu.edu/data/heritage-trees/duelling-oak/duelling-oak.ply "Duelling Oak PLY")
++
 [``xyz``](https://xyz.cct.lsu.edu/data/heritage-trees/duelling-oak/duelling-oak.xyz "Duelling Oak XYZ")
 +
 [``3dm``](https://xyz.cct.lsu.edu/data/heritage-trees/duelling-oak/duelling-oak.3dm "Duelling Oak 3DM")
@@ -39,5 +49,5 @@ Javier Zamora,
 {{<i class="ms ms-polygon">}} Mesh:
 [``stl``](https://xyz.cct.lsu.edu/data/heritage-trees/duelling-oak/duelling-oak.stl "Duelling Oak STL")
 
-![Duelling Oak](../duelling-oak.jpg)
+![Duelling Oak](../duelling-oak.webp)
 

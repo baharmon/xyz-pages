@@ -122,21 +122,26 @@ h4 {
 }
 h1 {
     font-size: 2rem;
+    margin-bottom: 30px;
 }
 h2 {
     font-size: 1.66rem;
+    margin-bottom: 25px;
 }
 h3 {
     font-size: 1.25rem;
+    margin-bottom: 25px;
 }
 h4,
 h5 {
     font-size: 1rem;
     font-family: PT Sans, sans-serif;
+    margin-bottom: 20px;
 }
 h5 {
     font-size: 0.85rem;
     text-transform: uppercase;
+    margin-bottom: px;
 }
 kbd {
     line-height: 1;

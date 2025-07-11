@@ -3,12 +3,12 @@ date: "2017-06-26T18:27:58+01:00"
 title: "Point Cloud Repository"
 ---
 
-![Rosedown Landscape](rosedown-landscape.jpg)
+![Rosedown Landscape](rosedown-landscape.webp)
 
 Welcome to the **XYZ Point Cloud Repository**,
 a collection of point clouds from 
 laser scanning, photogrammetry, 
-and neural radiance fields
+and neural renderings
 by Louisiana State University's
 [College of Art and Design](https://design.lsu.edu/).
 
@@ -16,7 +16,7 @@ by Louisiana State University's
 
 {{< expandable label="Rosedown" level="2" >}}
 
-![Rosedown Dining Room](rosedown-dining-room.jpg)
+![Rosedown Dining Room](rosedown-dining-room.webp)
 <!-- {{< potree rosedown interior >}} -->
 
 [**Rosedown**](rosedown) is a two hundred acre site in St. Francisville, Louisiana
@@ -80,7 +80,7 @@ turn on or off point cloud layers.
 
 {{< expandable label="Hilltop Photogrammetry" level="2" >}}
 
-![Hilltop Arboretum](hilltop-transect-biomass-2020.png)
+![Hilltop Arboretum](hilltop-transect-biomass-2020.webp)
 
 **Location:** Hilltop Arboretum, Baton Rouge, Louisiana
 
@@ -154,7 +154,7 @@ turning on or off point cloud layers.
 
 {{< expandable label="Hilltop Lidar" level="2" >}}
 
-![Hilltop Arboretum](hilltop-1.jpg)
+![Hilltop Arboretum](hilltop-1.webp)
 
 **Location:** Hilltop Arboretum, Baton Rouge, Louisiana
 
@@ -186,7 +186,7 @@ The datasets are licensed [{{<i class="fab fa-creative-commons-zero">}} Creative
 
 {{< expandable label="Avery Island Buddha" level="2" >}}
 
-![Avery Island Buddha](buddha.png)
+![Avery Island Buddha](buddha.webp)
 <!-- {{< potree averyisland buddha >}} -->
 
 [**Avery Island Buddha**](avery-island-buddha) &nbsp;
@@ -202,37 +202,100 @@ The point cloud is licensed [{{<i class="fab fa-creative-commons-zero">}} Creati
 
 {{< /expandable >}}
 
-{{< expandable label="Cloud Forest" level="2" >}}
+{{< expandable label="Cloud Forest Library" level="2" >}}
 
-![Magnolia soulangeana](magnolia-soulangeana-02.png)
+![Magnolia soulangeana](magnolia-soulangeana-02.webp)
 
 [**Cloud Forest**](cloud-forest)
-is a collection of laser scanned trees and other plants.
-Each plant is available as ``laz``, ``e57``, ``pcd``, ``xyz``, and ``3dm`` format point clouds.
+is a point cloud collection
+of trees, shrubs, herbaceous plants, and other landscape elements.
+Each specimen is available as 
+``laz``, ``e57``, ``pcd``, ``ply``, ``xyz``, and ``3dm`` format point clouds.
 The project lead is [Brendan Harmon](https://baharmon.github.io/).
-The project team includes Javier Zamora, Huan Guo, Jacob Contreras, and Ryan Antoon.
+The project team includes 
+Javier Zamora, Huan Guo, Jacob Contreras, and Ryan Antoon.
 The point clouds are released under the
 [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/)
 public domain dedication.
 [{{<i class="ai ai-doi">}} 10.5281/zenodo.8194067](https://doi.org/10.5281/zenodo.8194067)
 
-[{{<i class="ms ms-cloud">}} Laurus nobilis I](laurus-nobilis-01)
+&nbsp;
 
-[{{<i class="ms ms-cloud">}} Magnolia soulangeana I](magnolia-soulangeana-01)
+| Common Name                | Latin Name        | No. |
+| -------------------------- | ----------------- | ----------- |
+| [Japanese Maple](../acer-palmatum-01 "Japanese Maple I") | Acer palmatum | 1 |
+| [Japanese Maple](../acer-palmatum-02 "Japanese Maple II") | Acer palmatum | 2 |
+| [Desert Rose](../adenium-obesum-01 "Desert Rose") | Adenium obesum | 1 |
+| [Japanese Plum Yew](../cephalotaxus-harringtonii-01 "Japanese Plum Yew") | Cephalotaxus harringtonia | 1 |
+| [Japanese Cedar](../cryptomeria-japonica-01 "Japanese Cedar") | Cryptomeria japonica | 1 |
+| [Autumn Fern](../dryopteris-erythrosora-01 "Autumn Fern") | Dryopteris erythrosora | 1 |
+| [Autumn Fern](../dryopteris-erythrosora-02 "Autumn Fern") | Dryopteris erythrosora | 2 |
+| [Autumn Fern](../dryopteris-erythrosora-03 "Autumn Fern") | Dryopteris erythrosora | 3 |
+| [Autumn Fern](../dryopteris-erythrosora-04 "Autumn Fern") | Dryopteris erythrosora | 4 |
+| [Blanketflower](../gaillardia-aristata-01  "Blanketflower") | Gaillardia aristata | 1 |
+| [Hodge Podge](../hodge-podge "Hodge Podge") | | 1 |
+| [Bearded Iris](../iris-germanica-01 "Bearded Iris") | Iris x germanica | 1 |
+| [Bearded Iris](../iris-germanica-02 "Bearded Iris") | Iris x germanica | 2 |
+| [Bearded Iris](../iris-germanica-03 "Bearded Iris") | Iris x germanica | 3 |
+| [Bearded Iris](../iris-germanica-04 "Bearded Iris") | Iris x germanica | 4 |
+| [Bearded Iris](../iris-germanica-05 "Bearded Iris") | Iris x germanica | 5 |
+| [Bay Laurel](../laurus-nobilis-01 "Bay Laurel") | Laurus nobilis | 1 |
+| [Saucer Magnolia](../magnolia-soulangeana-01  "Saucer Magnolia ") | Magnolia soulangeana | 1 |
+| [Saucer Magnolia](../magnolia-soulangeana-02  "Saucer Magnolia ") | Magnolia soulangeana | 2 |
+| [Wax Myrtle](../morella-californica-01 "Wax Myrtle") | Morella californica | 1 |
+| [Walking Iris](../neomarica-caerulea-01 "Walking Iris") | Neomarica caerulea | 1 |
+| [Pebble](../pebble-01   "Pebble") | | 1 |
+| [Pebble](../pebble-02   "Pebble") | | 2 |
+| [American Sycamore](../platanus-occidentalis-01    "American Sycamore") | Platanus occidentalis | 1 |
+| [Christmas Fern](../polystichum-acrostichoides-01   "Christmas Fern") | Polystichum acrostichoides | 1 |
+| [Cherry Laurel](../prunus-laurocerasus-01 "Cherry Laurel") | Prunus laurocerasus | 1 |
+| [Cherry Laurel](../prunus-laurocerasus-02 "Cherry Laurel") | Prunus laurocerasus | 2 |
+| [White Oak](../quercus-alba-01 "White Oak") | Quercus alba | 1 |
+| [Christmas Cactus](../schlumbergera-bridgesil-01 "Christmas Cactus") | Schlumbergera bridgesii | 1 |
+| [Christmas Cactus](../schlumbergera-bridgesil-02 "Christmas Cactus") | Schlumbergera bridgesii | 2 |
+| [Lamb's Ear](../stachys-byzantina-01 "Lamb's Ear") | Stachys byzantina | 1 |
 
-[{{<i class="ms ms-cloud">}} Magnolia soulangeana II](magnolia-soulangeana-02)
+{{< /expandable >}}
 
-[{{<i class="ms ms-cloud">}} Morella californica I](morella-californica-01)
+{{< expandable label="Cloud Garden" level="2" >}}
 
-[{{<i class="ms ms-cloud">}} Polystichum acrostichoides I](polystichum-acrostichoides-01)
+![Cloud Garden](cloud-garden.webp)
 
-[{{<i class="ms ms-cloud">}} Quercus alba I](quercus-alba-01)
+[**Cloud Garden**](cloud-garden) is a computational design for a garden 
+generated from procedural noise and modeled as a point cloud. 
+All of the plants in the garden are either laser scanned 
+or neural rendered specimens collected in the wild.
+
+**Team:** [Brendan Harmon](https://baharmon.github.io/)
+
+**Date:** June 15, 2025
+
+**Medium:** Point cloud
+
+**DOI:** [10.5281/zenodo.15670829](https://doi.org/10.5281/zenodo.15670829)
+
+**License:** [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/)
+
+{{<i class="fas fa-braille">}} **Viewers:** [Potree](https://xyz.cct.lsu.edu/data/cloud-garden/cloud-garden.html "Cloud Garden Viewer") + [Sketchfab](https://skfb.ly/pyp9U)
+
+{{<i class="ms ms-cloud">}} **Point Clouds**:
+[``laz``](https://xyz.cct.lsu.edu/data/cloud-garden/cloud-garden.laz "Cloud Garden LAZ")
++
+[``e57``](https://xyz.cct.lsu.edu/data/cloud-garden/cloud-garden.e57 "Cloud Garden E57")
++
+[``pcd``](https://xyz.cct.lsu.edu/data/cloud-garden/cloud-garden.pcd "Cloud Garden PCD")
++
+[``ply``](https://xyz.cct.lsu.edu/data/cloud-garden/cloud-garden.ply "Cloud Garden PLY")
++
+[``xyz``](https://xyz.cct.lsu.edu/data/cloud-garden/cloud-garden.xyz "Cloud Garden XYZ")
++
+[``3dm``](https://xyz.cct.lsu.edu/data/cloud-garden/cloud-garden.3dm "Cloud Garden 3DM")
 
 {{< /expandable >}}
 
 {{< expandable label="Atlas of Heritage Trees" level="2" >}}
 
-![Big Cypress](big-cypress.jpg)
+![Big Cypress](big-cypress.webp)
 
 [**The Atlas of Heritage Trees**](atlas-of-heritage-trees)
 is an archive of ancient trees
@@ -244,13 +307,19 @@ The project leads are [Brendan Harmon](https://baharmon.github.io/)
 and [Hye Yeon Nam](https://hynam.org/).
 Contributors include 
 Javier Zamora, 
-Huan Guo, 
+Huan Guo,
+Carlos Roman,
+Joseph Brooks,
+Cecil Chapman,
+Sebastian Crandall,
 William Reinhardt, 
 Julie Whitbeck, 
 Kaiti Fink, 
 and Jeff Boucher.
-This project was funded by the LSU Arts & Humanities Support Fund
-and supported by the LSU Center for GeoInformatics
+This project was funded by the 
+LSU Big Ideas Grant and the
+LSU Arts & Humanities Support Fund.
+It was supported by the LSU Center for GeoInformatics
 and the LSU Coastal Ecosystem Design Studio.
 The point clouds are released under the
 [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/)
@@ -262,6 +331,8 @@ public domain dedication.
 [{{<i class="ms ms-cloud">}} Monarch of the Swamp](monarch-of-the-swamp)
 
 [{{<i class="ms ms-cloud">}} Duelling Oak](duelling-oak)
+
+[{{<i class="ms ms-cloud">}} Grover Cleveland Oak](cleveland-oak)
 
 {{< /expandable >}}
 

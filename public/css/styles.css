@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
     font-family: 'Miriam Libre';
-    src: url('https://xyz.cct.lsu.edu/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('https://xyz.cct.lsu.edu/css/fonts/miriamlibre-bold.woff') format('woff');
+    src: url('http://127.0.0.1:1313/css/fonts/miriamlibre-bold.woff2') format('woff2'), url('http://127.0.0.1:1313/css/fonts/miriamlibre-bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
@@ -122,21 +122,26 @@ h4 {
 }
 h1 {
     font-size: 2rem;
+    margin-bottom: 30px;
 }
 h2 {
     font-size: 1.66rem;
+    margin-bottom: 25px;
 }
 h3 {
     font-size: 1.25rem;
+    margin-bottom: 25px;
 }
 h4,
 h5 {
     font-size: 1rem;
     font-family: PT Sans, sans-serif;
+    margin-bottom: 20px;
 }
 h5 {
     font-size: 0.85rem;
     text-transform: uppercase;
+    margin-bottom: px;
 }
 kbd {
     line-height: 1;
@@ -517,7 +522,7 @@ caption {
 }
 .note.warning {
     border-left: 0;
-    background-image: url(https://xyz.cct.lsu.edu/css/images/stripe.svg);
+    background-image: url(http://127.0.0.1:1313/css/images/stripe.svg);
     background-size: 0.5rem auto;
     background-repeat: repeat-y;
 }
@@ -536,7 +541,7 @@ caption {
     width: 1rem;
     height: 1rem;
     margin-right: 0.25rem;
-    background-image: url(https://xyz.cct.lsu.edu/css/images/icon-tick.svg);
+    background-image: url(http://127.0.0.1:1313/css/images/icon-tick.svg);
     background-size: 100% auto;
     position: absolute;
     left: -1.25rem;

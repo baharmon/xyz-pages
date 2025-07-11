@@ -36,7 +36,7 @@ This project is supported by the
 [LSU Center for GeoInformatics](http://c4g.lsu.edu/).
 The datasets are licensed [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-![Hilltop Arboretum](../hilltop-transect-biomass-2020.png)
+![Hilltop Arboretum](../hilltop-transect-biomass-2020.webp)
 
 **Point Cloud Time Series Viewers**
 

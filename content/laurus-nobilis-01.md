@@ -1,43 +1,33 @@
 ---
-date: "2022-07-28"
+date: "2022-11-13"
 title: "Laurus nobilis"
 ---
 
 ### Bay Laurel
 
+**Location:** Capitol Gardens, Baton Rouge, Louisiana
+
+**Date:** November 13, 2022
+
+**Team:** Brendan Harmon
+
+**Capture:** Terrestrial Laser Scan
+
+**Equipment:** Faro Focus
+
 [{{<i class="fas fa-braille">}} Viewer](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01.html "Laurus nobilis viewer")
 
-{{<i class="ms ms-database">}} Large:
-[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-l.laz "Laurus nobilis LAZ")
+{{<i class="ms ms-database">}} Point Clouds:
+[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01.laz "Laurus nobilis LAZ")
 + 
-[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-l.e57 "Laurus nobilis E57")
+[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01.e57 "Laurus nobilis E57")
 + 
-[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-l.pcd "Laurus nobilis PCD")
+[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01.pcd "Laurus nobilis PCD")
++
+[``ply``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01.ply "Laurus nobilis PLY")
++
+[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01.xyz "Laurus nobilis XYZ")
 + 
-[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-l.xyz "Laurus nobilis XYZ")
-+ 
-[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-l.3dm "Laurus nobilis 3DM")
+[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01.3dm "Laurus nobilis 3DM")
 
-{{<i class="ms ms-database">}} Mediun:
-[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-m.laz "Laurus nobilis LAZ")
-+ 
-[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-m.e57 "Laurus nobilis E57")
-+ 
-[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-m.pcd "Laurus nobilis PCD")
-+ 
-[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-m.xyz "Laurus nobilis XYZ")
-+ 
-[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-m.3dm "Laurus nobilis 3DM")
-
-{{<i class="ms ms-database">}} Small:
-[``laz``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-s.laz "Laurus nobilis LAZ")
-+ 
-[``e57``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-s.e57 "Laurus nobilis E57")
-+ 
-[``pcd``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-s.pcd "Laurus nobilis PCD")
-+ 
-[``xyz``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-s.xyz "Laurus nobilis XYZ")
-+ 
-[``3dm``](https://xyz.cct.lsu.edu/data/cloud-forest/laurus-nobilis-01/laurus-nobilis-01-s.3dm "Laurus nobilis 3DM")
-
-![Laurus nobilis](../laurus-nobilis-01.png)
+![Laurus nobilis](../laurus-nobilis-01.webp)

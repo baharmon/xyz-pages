@@ -30,7 +30,7 @@ and funded by the National Park Service's Historic Preservation Fund.
 The datasets are licensed 
 [{{<i class="fab fa-creative-commons-zero">}} Creative Commons Zero](https://creativecommons.org/share-your-work/public-domain/cc0/).
 
-![Rosedown Dining Room](../rosedown-dining-room.jpg)
+![Rosedown Dining Room](../rosedown-dining-room.webp)
 
 &nbsp;
 

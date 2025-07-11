@@ -2,72 +2,153 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xyz.cct.lsu.edu/atlas-of-heritage-trees/</loc>
+    <loc>http://127.0.0.1:1313/cloud-garden/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/iris-germanica-01/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/iris-germanica-02/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/iris-germanica-03/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/iris-germanica-04/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/iris-germanica-05/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/pebble-01/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/pebble-02/</loc>
+    <lastmod>2025-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/gaillardia-aristata-01/</loc>
+    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/neomarica-caerulea-01/</loc>
+    <lastmod>2025-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/cleveland-oak/</loc>
+    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/schlumbergera-bridgesil-02/</loc>
+    <lastmod>2024-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/platanus-occidentalis-01/</loc>
+    <lastmod>2024-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/prunus-laurocerasus-01/</loc>
+    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/prunus-laurocerasus-02/</loc>
+    <lastmod>2024-07-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/acer-palmatum-01/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/adenium-obesum-01/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/cephalotaxus-harringtonii-01/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/dryopteris-erythrosora-02/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/dryopteris-erythrosora-04/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/schlumbergera-bridgesil-01/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/stachys-byzantina-01/</loc>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/acer-palmatum-02/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/cryptomeria-japonica-01/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/dryopteris-erythrosora-01/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/dryopteris-erythrosora-03/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/atlas-of-heritage-trees/</loc>
     <lastmod>2023-12-30T09:54:25-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/avery-island-buddha/</loc>
+    <loc>http://127.0.0.1:1313/avery-island-buddha/</loc>
     <lastmod>2023-11-26T15:32:54-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/cloud-forest/</loc>
+    <loc>http://127.0.0.1:1313/cloud-forest/</loc>
     <lastmod>2023-12-05T21:47:35-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/big-cypress/</loc>
+    <loc>http://127.0.0.1:1313/monarch-of-the-swamp/</loc>
     <lastmod>2023-11-19T10:47:53-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/duelling-oak/</loc>
+    <loc>http://127.0.0.1:1313/big-cypress/</loc>
     <lastmod>2023-11-19T10:47:53-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/laurus-nobilis-01/</loc>
-    <lastmod>2023-07-28T20:12:18-05:00</lastmod>
-  </url><url>
-    <loc>https://xyz.cct.lsu.edu/magnolia-soulangeana-01/</loc>
-    <lastmod>2023-07-28T20:12:18-05:00</lastmod>
-  </url><url>
-    <loc>https://xyz.cct.lsu.edu/magnolia-soulangeana-02/</loc>
-    <lastmod>2023-07-28T20:12:18-05:00</lastmod>
-  </url><url>
-    <loc>https://xyz.cct.lsu.edu/monarch-of-the-swamp/</loc>
+    <loc>http://127.0.0.1:1313/duelling-oak/</loc>
     <lastmod>2023-11-19T10:47:53-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/morella-californica-01/</loc>
+    <loc>http://127.0.0.1:1313/magnolia-soulangeana-01/</loc>
     <lastmod>2023-07-28T20:12:18-05:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/polystichum-acrostichoides-01/</loc>
+    <loc>http://127.0.0.1:1313/magnolia-soulangeana-02/</loc>
     <lastmod>2023-07-28T20:12:18-05:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/quercus-alba-01/</loc>
+    <loc>http://127.0.0.1:1313/laurus-nobilis-01/</loc>
     <lastmod>2023-07-28T20:12:18-05:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/about/</loc>
+    <loc>http://127.0.0.1:1313/morella-californica-01/</loc>
+    <lastmod>2023-07-28T20:12:18-05:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/polystichum-acrostichoides-01/</loc>
+    <lastmod>2023-07-28T20:12:18-05:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/quercus-alba-01/</loc>
+    <lastmod>2023-07-28T20:12:18-05:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/hodge-podge/</loc>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/about/</loc>
     <lastmod>2023-12-30T09:54:25-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/print-version/</loc>
+    <loc>http://127.0.0.1:1313/print-version/</loc>
     <lastmod>2023-11-26T15:32:54-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/</loc>
+    <loc>http://127.0.0.1:1313/</loc>
     <lastmod>2025-02-28T11:50:19-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/african-american-burial-grounds/</loc>
-    <lastmod>2025-02-28T11:16:48-06:00</lastmod>
+    <loc>http://127.0.0.1:1313/african-american-burial-grounds/</loc>
+    <lastmod>2025-04-12T20:51:56-05:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/post/</loc>
+    <loc>http://127.0.0.1:1313/post/</loc>
     <lastmod>2022-01-06T19:02:24-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/hilltop/</loc>
+    <loc>http://127.0.0.1:1313/hilltop/</loc>
     <lastmod>2023-11-26T16:55:51-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/hilltop-lidar/</loc>
+    <loc>http://127.0.0.1:1313/hilltop-lidar/</loc>
     <lastmod>2023-12-17T19:26:28-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/petit-versailles/</loc>
+    <loc>http://127.0.0.1:1313/petit-versailles/</loc>
     <lastmod>2025-02-28T11:16:48-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/rosedown/</loc>
+    <loc>http://127.0.0.1:1313/rosedown/</loc>
     <lastmod>2023-11-26T16:27:20-06:00</lastmod>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/tags/</loc>
+    <loc>http://127.0.0.1:1313/tags/</loc>
   </url><url>
-    <loc>https://xyz.cct.lsu.edu/template/</loc>
+    <loc>http://127.0.0.1:1313/template/</loc>
     <lastmod>2023-11-26T16:27:20-06:00</lastmod>
   </url>
 </urlset>

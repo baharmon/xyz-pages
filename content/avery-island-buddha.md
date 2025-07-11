@@ -21,4 +21,4 @@ The point cloud is licensed [{{<i class="fab fa-creative-commons-zero">}} Creati
 
 [{{<i class="ms ms-cloud">}} Point Clouds](https://xyz.cct.lsu.edu/data/averyisland/buddha.laz "LAZ Point Cloud of Avery Island Buddha")
 
-![Avery Island Buddha](../buddha.png)
+![Avery Island Buddha](../buddha.webp)
