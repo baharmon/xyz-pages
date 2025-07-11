@@ -7,7 +7,7 @@ cd /mnt/d/xyz-pages
 hugo server
 hugo
 git add -A
-git commit -am 'commit message'
+git commit -n -am 'commit message'
 git push
 ```
 
